@@ -42,6 +42,8 @@ Charlie Smith is an Atlanta-based sculptor who, for nearly three decades, has bu
 
 He describes himself as a "Visual Artist, Sculpture, Flame Effects Operator, Metal Fabricator, Art Director, Consultant, Idea man, Interactive Art Installation Designer, Community Workshop Producer." His self-styled list of hats is a good tell — he's a maker and a connector in equal measure.
 
+**CV facts (from sparceland.com/bio-shift):** BFA, **Atlanta College of Art (1992)** · film/TV/trade-show props & special effects (**1994–97**) · **Sparceland Studios (1997→)** · **Tennessee flame special-effects licensing (2006–2022)** · Burning Man Honoraria years **2000 through 2018** · community-built sculpture workshops since 2000 across San Francisco, Seattle, Austin, Denver, New York, and Atlanta.
+
 **On the names:**
 - **"BlackCat" / "Blackcat"** — his long-running artist handle.
 - **"Uncle Charlie"** — the affectionate persona, front-and-center in the 2018 piece *Uncle Charlie's Red Hot Cock* and the framing for ASS Camp.
@@ -66,6 +68,8 @@ The word literally appears in his own description of *Uncle Charlie's Red Hot Co
 - **Mechanical + mythic** — hard metallic textures and "hard lines of expressionism" fused with fairy-tale characters and fertility/heritage symbolism.
 - **Fire as the social enabler** — see his Leonardo essay *The Communal Caldron of Fire*: he replaces the prototypical bonfire with a portable metal "Fire Cauldron" that becomes a "central axis point" for community.
 - **Built by community, gifted to community** — workshops where participants learn to weld and fabricate, then often keep the resulting sculpture.
+
+**The sharper frame — builder of social machines.** The object is never the whole work; the real work is the crew, the ritual, the burn procedure, the shared danger, the story, and the memory-body that forms around the machine. A working definition: *contraptionism is ritual-scale, community-built, kinetic fire sculpture where the machine exists to make people gather, move, feed, witness, and remember together.* Positioning line: **Charlie makes contraptionist fire rituals — community-built metal mythologies that turn fabrication, fuel, danger, memory, and participation into temporary social architecture.** (Full thesis + motif glossary: `entities/motifs.md`. Note: "contraptionism" is an interpretive lens, not Burning Man-official terminology.)
 
 > **Strategic read:** The new domain looks like Charlie moving to *name and brand* this lifelong practice — turning a 30-year instinct into a stated philosophy ("Contraptionism"), and likely a hub for documenting, teaching, or selling the work. As of mid-2026 it's an empty placeholder. Note this is distinct from his 2023 "what's next" piece, the *Solar Scope* (see catalog) — so by 2026 he has at least three threads going: the Burning Book (memorial), the Solar Scope (commission), and Contraptionism (the brand/platform). **Worth asking him directly what he wants contraptionism.com to be — and whether you can help build it.**
 
@@ -132,6 +136,16 @@ His old site's "News" page is a detailed tour log naming works, venues, and date
 **2003** — A cross-country tour with *the Tunnel*; works/recurring names include *Teetering Cusps* (burned at the Starlight Drive-In, Atlanta), the *Discombobulator* (Austin Halloween fire show), the *Gantry* (Steamboat decom), *Syd's Planetarium* (moved LA→SF), plus commissions *Bucari tree*, *Nickle table*, *Elephants*. He also played in a band ("Atlanta Low Life quartet").
 
 **Recurring named works to know:** the Tunnel of Transformation, Teetering Cusps, Gantry, Discombobulator, Hot Mama, Mr. Nice Guy, Chalice o' Fire, Quadrapass/Triple Bypass, Bone Head, Fleeble Flobbler, Contraptions, the Waking Rooster / Red Hot Cock. Many are **fire cauldrons or teeter/kinetic pieces** that tour and "burn" at multiple events over years — consistent with his "it doesn't go away, it just evolves" ethos.
+
+### Burning Man honoraria 2011–2014 (newly documented)
+
+Surfaced from the Burning Man photo archive (gallery.burningman.org / history.burningman.org) — these fill the gap between the early tour years and the 2018 Red Hot Cock, and each now has photos in the archive (see `entities/works/`):
+
+- **2011 — Fire Birds of the Fifth Direction.** Four 12-ft wood-fired metal bird-creature cauldrons; cut patterns lit by internal fire at night, shadow-casting wings by day; surrounded the Man as congregation areas, then transformed into "ONE" for a Saturday eruption. *(The same winged cut-panel design recurs at Okeechobee 2017 — the frame previously catalogued as "unknown winged sculpture" is Fire Birds-lineage.)*
+- **2013 — Big Bully.** A fire-spewing, winged, human-headed bull; participants threw logs into its mouth "as sacrifice." **Confirms** the long-mislabeled portfolio image `bigbullysm.jpg`.
+- **2014 — Infinite Infant and the Trail of Toys.** A steel dunce-capped baby shooting fire from its head, towing three older wheeled cauldrons from previous work — Charlie treating past sculptures as living components of a longer mythology.
+
+**Candidate works (unconfirmed — verify with Charlie):** the gallery also surfaced *"Big Charles"* (4 frames, several by photographer Shane Evans; one captioned "Big Charles and Galaxia") and *"Encompassment / Directional Vessels of Fire."* Catalogued at low confidence pending Charlie's confirmation.
 
 **Photo galleries (on howhowhow.com).** The News page links to dozens of film/digital photo albums per year/event (e.g., "Burning Man 2007/2008," "The Making of Hot Mama," "Synapses SF 1st Fire," "Triple Bypass Burns," "Fire Arts Festival–Oakland," plus an extensive "Life With Casper" series). These are catalogued for the visual archive — see the image-catalog note in *Open questions*. Many gallery photos are credited to **Jaime Ladet**.
 
@@ -371,6 +385,10 @@ Charlie is a multi-time Burning Man Honorarium artist and grantee. **Sources dif
 - Burning Man Journal — "Artist Update: Charlie Smith" (2015): https://journal.burningman.org/2015/02/burning-man-arts/brc-art/artist-update-charlie-smith/
 - Leonardo / ISAST — Charlie Smith, "The Communal Caldron of Fire" (2007): https://leonardo.info/gallery/burningman_fire/smith.charlie.html
 - Reason — "Remembering Brian Doherty" (Mar 16, 2026): https://reason.com/2026/03/16/remembering-brian-doherty-chronicler-of-and-participant-in-wild-and-wonderful-subcultures/
+- Burning Man photo gallery — Charlie Smith assets (24 photos incl. HEARTH, Synapses, Fire Birds, Infinite Infant, Red Hot Cock): https://gallery.burningman.org/search?q=charlie%20smith
+- Burning Man history archives — 2013 art installations (Big Bully): https://history.burningman.org/brc-history/event-archives/2013-event-archive/2013-art-installations/
+
+> **Structured records:** the archive now has an entity layer — `entities/` (works/people/motifs/organizations), `Catalog/works.json` (structured artwork records), and `Catalog/manifest.json` (machine-readable image+work+tag export). Start at `entities/README.md`.
 - Brian Doherty — Wikipedia: https://en.wikipedia.org/wiki/Brian_Doherty_(journalist)
 - Kris Krüg — Charlie interview video, "Modern Myths Unveiled" (2023): https://www.youtube.com/watch?v=ksJDcyZmvh4
 - Kris Krüg — "The Most Insane Burning Man Art Projects" video (2023): https://www.youtube.com/watch?v=CSoU5gZDL6Y

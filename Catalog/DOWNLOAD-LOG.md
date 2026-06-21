@@ -56,3 +56,37 @@ Round-1 already had the pages' CDN images. New this round:
 - ~79 of the new frames have no `work_id` (camp/crew/portrait not tied to a specific sculpture) — enrich opportunistically.
 - The 52 `.dng` raw masters remain only in `~/Downloads/Charlie Smith BLackcat` (not backed up in the repo by decision).
 - Sparceland video transcripts still pending (YouTube 429).
+
+---
+
+# Round 3 — KB Re-architecture + Canon + DNGs (2026-06-21)
+
+**Result:** catalog 313 → **337 rows**; high-res(≥2000px) 193 → **211**; works 17 → **22**; archive becomes an **entity-based KB** (works/people/motifs/orgs + tags on every image).
+
+## DNG masters into the archive
+- Copied all **52 `.dng`** masters → `Red-Hot-Cock-BM2018/raw/` (~31 MB); now versioned alongside their JPG previews (resolves the Round-2 gap where raws lived only in `~/Downloads`).
+
+## New photos — Burning Man gallery (rights=third-party)
+- Discovered the gallery search is server-rendered: **24 Charlie Smith assets** at `gallery.burningman.org`. Pulled all 24 via signed 2048px `og:image` → `BurningMan-archive/`.
+- Fills works that had **zero photos**: HEARTH (3), Synapses (1), Fire Birds (1), Infinite Infant (2), plus more Red Hot Cock / Fleeble / Time Star frames.
+- Surfaced candidate works from gallery titles: **"Big Charles"** (×4, photog. Shane Evans) and **"Encompassment / Directional Vessels of Fire"** — catalogued low-confidence, flagged for Charlie to confirm.
+
+## Works canon
+- Added **Fire Birds of the Fifth Direction (2011)**, **Big Bully (2013)**, **Infinite Infant and the Trail of Toys (2014)** to `works.csv` + 2 candidates → **22 works**.
+- Resolved `bigbullysm.jpg` → `big-bully`; re-linked the "unknown winged sculpture" OMF17-05 → `fire-birds` (design match).
+- New **`Catalog/works.json`** — structured artwork records (interaction, fire_system, crew_model, ritual, motifs, image_count, sources, confidence). Red Hot Cock height reconciled to "≈25–30 ft".
+
+## Entity layer (`entities/`)
+- `entities/works/*.md` (22, generated from `works.json`), `people.md`, `motifs.md` (the contraptionism thesis + tag glossary), `organizations.md`, `README.md` (the map). Cross-linked with `[[wiki]]` refs.
+
+## Tags
+- Added a `tags` column to `images.csv`; **all 337 rows tagged** deterministically (work_id → motifs, event, scene, source/rights, hero). `manifest.json` upgraded to v2 (per-image tags + works detail + entities index + top-tags).
+
+## KB narrative
+- Added: the social-machine contraptionism frame; the 2011–2014 honoraria works; the dated **CV facts**; BM-gallery/archive sources; pointer to `entities/`. Kept the Burning-Book "not a verified 2026 honorarium" caveat.
+
+## Gaps / follow-ups (Round 3)
+- `big-charles` / `encompassment` are unconfirmed — confirm with Charlie (could be nicknames or distinct pieces).
+- 3 gallery photos remain `work_id`-blank ("Visiting Robots", "A Naust", "Charlie and Leo").
+- Sparceland/Charlie video transcripts still pending (YouTube 429).
+- Per-work `.md` files are generated — edit `works.json`, not the `.md`, then re-run the generator.
