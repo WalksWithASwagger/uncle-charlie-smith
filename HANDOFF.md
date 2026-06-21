@@ -1,5 +1,14 @@
 # HANDOFF — for Claude Code (photo + media ingestion)
 
+> ## ✅ STATUS — ingestion DONE (3 rounds, 2026-06-21)
+> The binary-ingestion mission below is complete and pushed (`github.com/WalksWithASwagger/uncle-charlie-smith`, branch `main`).
+> - **Round 1:** Flickr originals, sparceland/howhowhow images, poems, press → 160 catalogued images; `images.csv` schema extended; `manifest.json` + `DOWNLOAD-LOG.md`.
+> - **Round 2:** Burning Man 2018 Red Hot Cock master set (148 frames + 52 DNG→JPG previews), every frame visually captioned → 313 images.
+> - **Round 3:** entity layer (`entities/`), `works.json`, tags on all images, 25 BM-gallery photos, 3 new works (Fire Birds/Big Bully/Infinite Infant), 52 DNG raws into `Red-Hot-Cock-BM2018/raw/` → **338 images, 22 works, 212 hi-res**.
+>
+> **Current map:** `entities/README.md` (KB map) · `Catalog/manifest.json` (machine export) · `Catalog/DOWNLOAD-LOG.md` (full provenance, per round) · `entities/TO-CONFIRM-with-charlie.md` (open questions).
+> **Still open:** YouTube transcripts (429-blocked); candidate works Big Charles / Encompassment (need Charlie); a few early works still photo-less. The original task notes below are kept for provenance.
+
 **Why this exists:** The Cowork session built the *knowledge/metadata* archive but **cannot download web binaries** (no tool writes a remote file into the workspace; curl/wget/python web-fetch is blocked there). Claude Code **can** (curl, `gallery-dl`, `yt-dlp`, `exiftool`). This doc hands off the binary-ingestion work.
 
 Repo root: `Uncle Charlie/` (GitHub: github.com/WalksWithASwagger/uncle-charlie-smith). Read `README.md` first (folder map + metadata model), then `Charlie-BlackCat-Smith-Knowledge-Base.md`.
