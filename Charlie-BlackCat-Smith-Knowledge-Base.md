@@ -150,6 +150,9 @@ His old site's "News" page is a detailed tour log naming works, venues, and date
 - **Build cadence:** Kris went out **three weeks early** with Charlie — before Black Rock City's streets were even up — then "shifted into a down gear" during the event to "hold court" at camp and walk visitors out to the sculpture.
 - **Scale — sources disagree:** sparceland.com lists **30' tall**; the official Burning Man 2018 guide (quoted in Kris's post) lists **12' wide × 30' long × 25' tall**; Kris's own narrative calls it a **"50-foot tall metal sculpture."** Footprint and the 12'×30' base are consistent across all three; height is the variable. (Kris recalls it as "30-something feet.")
 - **Lineage:** Descends from the ~2007 "Red Hot Cock" / waking-rooster fertility series — the motif Charlie has returned to for over a decade.
+- **Photo archive — two distinct 2018 events (don't conflate them):**
+  - `Red-Hot-Cock-2018/` = **Okeechobee, March 2018** (#OMF18) — Kris's Flickr set (camp, crew, the rooster firing at the festival).
+  - `Red-Hot-Cock-BM2018/` = **Burning Man / Black Rock City, Aug 2018** — the honorarium master set: **148 high-res frames** from Kris's Canon 5D Mark IV + Galaxy S9 (3-weeks-early camp setup, night gin-pole raising, the engraved jackal-rooster head on the playa, dust-storm crew moments, the "Johnny Appleseed of Burning Man" banner). The bulk are previously-unpublished. Every frame is visually captioned in `Catalog/images.csv` (`rights=kk-owned`) and exported to `Catalog/manifest.json`.
 
 ### Kris's first-person account (from his 2023 story)
 
@@ -303,6 +306,7 @@ Charlie is a multi-time Burning Man Honorarium artist and grantee. **Sources dif
 - **Donations:** PayPal.Me/thewakingbird
 - **Studio:** 680 Murphy Ave SW, Unit 6026, Atlanta, GA 30310
 - **Videos (Kris, 2023):** Charlie interview — youtu.be/ksJDcyZmvh4 · Red Hot Cock/Shrine story — youtu.be/CSoU5gZDL6Y. Full transcripts in `/Transcripts`.
+- **Videos (embedded on sparceland project pages):** *24/7 Timestar — "Timing Is Everything"* — youtu.be/aw3dDEIexYk (2012) · Timestar clip "IMG 4387" — youtu.be/JfWAQRnY8e0 (2017) · *Fleeble Flobbler* ride clip — youtu.be/F3QwScSPnZI (2016). Thumbnails in `/Video-stills`; auto-captions currently blocked by YouTube rate-limiting (retry later).
 - **Kris's writing:** kriskrug.co — the "Johnny Appleseed" profile + the Red Hot Cock/Shrine story (both Aug 2023).
 - **GitHub repo:** github.com/WalksWithASwagger/uncle-charlie-smith
 

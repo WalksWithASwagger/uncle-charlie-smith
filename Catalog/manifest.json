@@ -3,17 +3,31 @@
   "generated": "2026-06-21",
   "schema_version": 1,
   "stats": {
-    "total_images": 160,
-    "local_files": 158,
-    "hero_shots": 15,
-    "high_res_2000plus": 51,
+    "total_images": 313,
+    "local_files": 311,
+    "hero_shots": 65,
+    "high_res_2000plus": 193,
     "works": 17,
     "rights_breakdown": {
       "charlie-site": 105,
       "charlie-archive": 1,
-      "kk-owned": 39,
+      "kk-owned": 189,
       "third-party": 11,
-      "video-still": 4
+      "video-still": 7
+    },
+    "events": {
+      "Burning Man 2007": 3,
+      "Burning Man / festival": 1,
+      "Bonnaroo": 1,
+      "AfrikaBurn / Cape Town": 1,
+      "Brian's memorial": 1,
+      "Okeechobee Music Festival": 1,
+      "Okeechobee Music Festival 2018": 32,
+      "Okeechobee Music Festival 2016 (#OMF16)": 1,
+      "Okeechobee Music Festival 2016": 5,
+      "Okeechobee Music Festival 2017": 7,
+      "Burning Man 2018": 126,
+      "Okeechobee Music Festival 2016/2018": 6
     }
   },
   "works": [
@@ -154,7 +168,7 @@
       "description": "22-ft rotund clown fire cauldron with eight rider seats on a pivoting base; later a flame-effects machine; recurring at Hulaween Spirit Lake (2023)",
       "confidence": "high",
       "sources": "sparceland.com/ride-shift; liveandlisten.com 2023; edm.com 2023",
-      "image_count": 21,
+      "image_count": 23,
       "image_files": [
         "fleeblesunrise.jpg",
         "bonnarooteeter.jpg",
@@ -176,7 +190,9 @@
         "fleeble-flobbler__sparceland__17813813-10155215256004243-511594455-n__dc01e3.jpg",
         "fleeble-flobbler__bonnarooteeter.jpg",
         "fleeble-flobbler__creativeloafing-fleeble.png",
-        "fleeble-flobbler__liveandlisten-hulaween.jpg"
+        "fleeble-flobbler__liveandlisten-hulaween.jpg",
+        "asscamp-dayone0U6A7053.jpg",
+        "fleeble-ride-video__F3QwScSPnZI.jpg"
       ]
     },
     {
@@ -308,7 +324,7 @@
       "description": "Seven-sided interactive star built by 100+ people; official BM 2012 title 'Timing Is Everything'; 24 ft; 2.5-yr Atlanta install via Art on the BeltLine + BRAF; local 'starfie' landmark",
       "confidence": "high",
       "sources": "sparceland.com/247-time-star; journal.burningman.org 2012; ajc.com 2015",
-      "image_count": 13,
+      "image_count": 15,
       "image_files": [
         "time-star__sparceland__11999608-10153408330476773-2728126910013__e43e9c.jpg",
         "time-star__sparceland__timestar-2012scale__687ffe.jpg",
@@ -322,7 +338,9 @@
         "time-star__ajc-beltline-star.jpg",
         "time-star__artsatl-beltline.jpg",
         "time-star__beltline-timestar.jpg",
-        "time-star__bmj-2012-honoraria.jpg"
+        "time-star__bmj-2012-honoraria.jpg",
+        "timestar-video-1__aw3dDEIexYk.jpg",
+        "timestar-video-2__JfWAQRnY8e0.jpg"
       ]
     },
     {
@@ -340,7 +358,7 @@
       "description": "Jackal-headed rooster teeter-totter that burns wood; ~40 crew; 2-2.5 cords; KK was quartermaster/documentarian",
       "confidence": "high",
       "sources": "sparceland.com/the-waking-birddog-2018-2; kriskrug.co",
-      "image_count": 27,
+      "image_count": 97,
       "image_files": [
         "cock25280032.png",
         "red-hot-cock__OMF18-charlie__40580044251.jpg",
@@ -368,7 +386,77 @@
         "red-hot-cock__bmj-2018-honoraria.png",
         "red-hot-cock__kriskrug-redhotcock.jpg",
         "kk-redhotcock-shrine-2023__CSoU5gZDL6Y.jpg",
-        "redhotcock-build-2018__eL3aEgK2YCs.jpg"
+        "redhotcock-build-2018__eL3aEgK2YCs.jpg",
+        "00961019-D6A4-4BAE-876A-0A3F6C6ADB44__dngprev.jpg",
+        "083BA554-380B-46E8-A338-692AC90F9C19__dngprev.jpg",
+        "0ACAB38B-5E2E-4CD0-9164-F5989A671261__dngprev.jpg",
+        "1BAA0E86-0BF6-48DB-9CD1-1A6F065D00AE__dngprev.jpg",
+        "1F8591A5-F4FA-4A63-ACC3-CF2A0E0D3D3E__dngprev.jpg",
+        "20180830_144352.jpg",
+        "20180830_144356.jpg",
+        "20180903_133902.jpg",
+        "25650EF8-1674-4444-8B7B-EBA12E206032__dngprev.jpg",
+        "27E4E656-311E-43B6-855C-63A7D7938E30__dngprev.jpg",
+        "3F40B58E-7F6E-43C2-A260-5C6B3451F69F__dngprev.jpg",
+        "51B59FF8-DD0B-44E2-B55E-90BDE9597F28__dngprev.jpg",
+        "56FBA27E-34C2-4A76-AF20-0042D735C02B__dngprev.jpg",
+        "5F3A2A27-FD79-4D40-B8E6-5B3D3D52B847__dngprev.jpg",
+        "65A6AD8A-8EC6-4614-9E4B-5E3E5FD56E66__dngprev.jpg",
+        "6C98652F-8E10-4B84-9912-A6EBFA265569__dngprev.jpg",
+        "88FB0A98-879F-44B5-894C-5F2C0EEE5862__dngprev.jpg",
+        "9E423F2F-5806-4C66-BB2C-07EF5C211798__dngprev.jpg",
+        "9EEC42C9-BEE5-4E28-A8A5-D2FA24FDCB17__dngprev.jpg",
+        "A3CB03D8-0062-47FF-A943-6E0A8B5D6E7D__dngprev.jpg",
+        "A6E4F749-B863-45B2-8D36-3D3AB752D1E9__dngprev.jpg",
+        "BF341617-1AA5-4582-B327-755EE96238BE__dngprev.jpg",
+        "F7F1B34D-111C-4222-B3EE-2E5E913C297F__dngprev.jpg",
+        "asscamp-dayone0U6A6993.jpg",
+        "asscamp-dayone0U6A6998.jpg",
+        "asscamp-dayone0U6A7001.jpg",
+        "asscamp-dayone0U6A7005.jpg",
+        "asscamp-dayone0U6A7017.jpg",
+        "asscamp-dayone0U6A7019.jpg",
+        "asscamp-dayone0U6A7029.jpg",
+        "asscamp-dayone0U6A7031.jpg",
+        "asscamp-dayone0U6A7032.jpg",
+        "asscamp-dayone0U6A7037.jpg",
+        "asscamp-dayone0U6A7050.jpg",
+        "asscamp-dayone0U6A7052.jpg",
+        "asscamp-dayone0U6A7057.jpg",
+        "asscamp-dayone0U6A7058.jpg",
+        "asscamp-dayone0U6A7105.jpg",
+        "asscamp-dayone0U6A7107.jpg",
+        "asscamp-dayone0U6A7111.jpg",
+        "asscamp-dayone0U6A7139.jpg",
+        "asscamp-dayone0U6A7141.jpg",
+        "asscamp-dayone0U6A7143.jpg",
+        "asscamp-dayone0U6A7145.jpg",
+        "asscamp-dayone0U6A7147.jpg",
+        "asscamp-dayone0U6A7148.jpg",
+        "asscamp-dayzero0U6A6792.jpg",
+        "asscamp-dayzero0U6A6816.jpg",
+        "asscamp-dayzero0U6A6818.jpg",
+        "asscamp-dayzero0U6A6889.jpg",
+        "asscamp-dayzero0U6A6907.jpg",
+        "asscamp-dayzero0U6A6911.jpg",
+        "asscamp-dayzero0U6A6914.jpg",
+        "asscamp-dayzero0U6A6929.jpg",
+        "asscamp-dayzero0U6A6936.jpg",
+        "asscamp-dayzero0U6A6938.jpg",
+        "asscamp-dayzero0U6A6978.jpg",
+        "asscamp-glenns-7-COLLAGE.jpg",
+        "asscamp-productions0U6A7483.jpg",
+        "asscamp-productions0U6A7538.jpg",
+        "asscamp-productions0U6A7541.jpg",
+        "asscamp-productions0U6A7561.jpg",
+        "asscamp-productions0U6A7563.jpg",
+        "asscamp-village-16.jpg",
+        "asscamp-village-17.jpg",
+        "asscamp-village-19.jpg",
+        "asscamp-village-22.jpg",
+        "asscamp-village-23.jpg",
+        "asscamp-village-26.jpg",
+        "mp4frame__4DsfraTKumB.jpg"
       ]
     },
     {
@@ -431,7 +519,8 @@
       "capture_date": "2007-09-18",
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "Likely from the 2007 'Contraptions' piece (namesake of contraptionism)"
     },
     {
       "file": "fleeblesunrise.jpg",
@@ -450,7 +539,8 @@
       "capture_date": null,
       "hero": true,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "Strong sunrise shot — good hero candidate"
     },
     {
       "file": "bonnarooteeter.jpg",
@@ -469,7 +559,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Teeter piece at Bonnaroo; could be Fleeble Flobbler or Teetering Cusps — confirm"
     },
     {
       "file": "bigbullysm.jpg",
@@ -488,7 +579,8 @@
       "capture_date": "2013-05-04",
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Work unidentified — possibly a named piece 'Big Bully'; confirm with Charlie"
     },
     {
       "file": "triplepaul.jpg",
@@ -507,7 +599,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Likely Triple Bypass/AfrikaBurn with Paul Jorgensen — confirm"
     },
     {
       "file": "cock25280032.png",
@@ -526,7 +619,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo (filename 'cock')"
     },
     {
       "file": "contraptions07.png",
@@ -545,7 +639,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "hotmama07.png",
@@ -564,7 +659,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "tunnel04.png",
@@ -583,7 +679,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "synE10.png",
@@ -602,7 +699,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo (syn)"
     },
     {
       "file": "tripleburn19.png",
@@ -621,7 +719,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "fleeble1.jpg",
@@ -640,7 +739,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "fleeble2.jpg",
@@ -659,7 +759,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "fleeble3.jpg",
@@ -678,7 +779,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "artwork photo"
     },
     {
       "file": "L195106-R01-041-19.jpg",
@@ -697,7 +799,8 @@
       "capture_date": "2007-08-06",
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Film scan; symbol-disc cutouts suggest Synapses-era symbol cauldron — confirm with Charlie"
     },
     {
       "file": "bbbsketchbook.webp",
@@ -716,7 +819,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Hand drawing; manifesto text transcribed in Hand-Drawings/_about"
     },
     {
       "file": "1+burning+book+sketch.webp",
@@ -735,7 +839,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Hand drawing"
     },
     {
       "file": "5-BBartistpage.webp",
@@ -754,7 +859,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Hand drawing"
     },
     {
       "file": "3-BBopbook+.webp",
@@ -773,7 +879,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "Sketch/render of heart piercing book"
     },
     {
       "file": "fleeble-flobbler__okeechobee-iconic__33130790642.jpg",
@@ -792,7 +899,8 @@
       "capture_date": "2017-03-03",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-flagged 'oldie but goodie' HERO SHOT — needs saving into portfolio-images"
     },
     {
       "file": "fleeble-flobbler__fleeble-01__25503147015.jpg",
@@ -811,7 +919,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-shared Fleeble Flobbler photo — needs saving"
     },
     {
       "file": "fleeble-flobbler__fleeble-02__24876426853.jpg",
@@ -830,7 +939,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-shared Fleeble Flobbler photo — needs saving"
     },
     {
       "file": "fleeble-flobbler__fleeble-03__25477028146.jpg",
@@ -849,7 +959,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-shared Fleeble Flobbler photo — needs saving"
     },
     {
       "file": "fleeble-flobbler__fleeble-04__25503124425.jpg",
@@ -868,7 +979,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-shared Fleeble Flobbler photo — needs saving"
     },
     {
       "file": "fleeble-flobbler__fleeble-05__25503117195.jpg",
@@ -887,7 +999,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-shared Fleeble Flobbler photo — needs saving"
     },
     {
       "file": "red-hot-cock__OMF18-charlie__40580044251.jpg",
@@ -906,7 +1019,8 @@
       "capture_date": "2018-03-01",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-flagged hero; daytime Charlie portrait"
     },
     {
       "file": "red-hot-cock__OMF18-nightfire__25706908187.jpg",
@@ -925,7 +1039,8 @@
       "capture_date": "2018-03-01",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Hero candidate; fire-in-action"
     },
     {
       "file": "red-hot-cock__OMF18-sign__38770045520.jpg",
@@ -944,7 +1059,8 @@
       "capture_date": "2018-03-01",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Hand-lettered signage; crew Little Ed"
     },
     {
       "file": "red-hot-cock__OMF18-littleed__26708433908.jpg",
@@ -963,7 +1079,8 @@
       "capture_date": "2018-03-01",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew: Little Ed"
     },
     {
       "file": "red-hot-cock__OMF18-paperboy-build__39869645374.jpg",
@@ -982,7 +1099,8 @@
       "capture_date": "2018-03-01",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew: Paperboy; fabrication"
     },
     {
       "file": "red-hot-cock__OMF18-paperboy-portrait__39685528665.jpg",
@@ -1001,7 +1119,8 @@
       "capture_date": "2018-03-01",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew: Paperboy"
     },
     {
       "file": "red-hot-cock__OMF18-night2__39682755635.jpg",
@@ -1020,7 +1139,8 @@
       "capture_date": "2018-03-01",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "night atmosphere"
     },
     {
       "file": "red-hot-cock__OMF18-night3__38767354030.jpg",
@@ -1039,7 +1159,8 @@
       "capture_date": "2018-03-01",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "night atmosphere"
     },
     {
       "file": "red-hot-cock__OMF18-tattoo__40537861902.jpg",
@@ -1058,7 +1179,8 @@
       "capture_date": "2018-03-01",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Notable personal detail — KK-flagged"
     },
     {
       "file": "red-hot-cock__OMF18-tubesteaks__40617852372.jpg",
@@ -1077,7 +1199,8 @@
       "capture_date": "2018-03-03",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "The meat-from-the-cock ritual — story-iconic"
     },
     {
       "file": "red-hot-cock__OMF18-ride__40659822121.jpg",
@@ -1096,7 +1219,8 @@
       "capture_date": "2018-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "participation"
     },
     {
       "file": "red-hot-cock__OMF18-crew-group__39763858115.jpg",
@@ -1115,7 +1239,8 @@
       "capture_date": "2018-03-02",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "group portrait"
     },
     {
       "file": "red-hot-cock__OMF18-iconic__26828305048.jpg",
@@ -1134,7 +1259,8 @@
       "capture_date": "2018-03-04",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "HERO"
     },
     {
       "file": "red-hot-cock__OMF18-poofers__39767906675.jpg",
@@ -1153,7 +1279,8 @@
       "capture_date": "2018-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew Paperboy; flame-fx"
     },
     {
       "file": "red-hot-cock__OMF18-jaredchen__25828813977.jpg",
@@ -1172,7 +1299,8 @@
       "capture_date": "2018-03-05",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew"
     },
     {
       "file": "red-hot-cock__OMF18-prescott__40657445652.jpg",
@@ -1191,7 +1319,8 @@
       "capture_date": "2018-03-04",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew"
     },
     {
       "file": "red-hot-cock__OMF18-trio__40700262381.jpg",
@@ -1210,7 +1339,8 @@
       "capture_date": "2018-03-04",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew group"
     },
     {
       "file": "red-hot-cock__OMF18-liljoe__40700310191.jpg",
@@ -1229,7 +1359,8 @@
       "capture_date": "2018-03-04",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "crew"
     },
     {
       "file": "red-hot-cock__OMF18-late-charlie__38889696540.jpg",
@@ -1248,7 +1379,8 @@
       "capture_date": "2018-03-04",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "charlie portrait night"
     },
     {
       "file": "OMF18-album-index",
@@ -1267,7 +1399,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "reference"
+      "status": "reference",
+      "notes": "See Red-Hot-Cock-2018/_Okeechobee-2018-captions.md for the full per-photo index"
     },
     {
       "file": "red-hot-cock__OMF16-charlie__24901613514.jpg",
@@ -1286,7 +1419,8 @@
       "capture_date": "2016-03-03",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-labeled 'charlie'"
     },
     {
       "file": "OMF16-02__25236534040.jpg",
@@ -1305,7 +1439,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Charlie candid portrait; identified via Elmyr/Blackcat gear"
     },
     {
       "file": "OMF16-03__25532167265.jpg",
@@ -1324,7 +1459,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Charlie candid; Blackcat shirt + Elmyr hat"
     },
     {
       "file": "OMF16-04__25114287604.jpg",
@@ -1343,7 +1479,8 @@
       "capture_date": null,
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Night hero: rideable clown fire cauldron in action"
     },
     {
       "file": "fleeble-flobbler__fleeble-05__25503117195.jpg",
@@ -1362,7 +1499,8 @@
       "capture_date": "2016-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "Fleeble album 72157665299462772 = OMF 2016"
     },
     {
       "file": "fleeble-flobbler__OMF16-thrumyeyes__25510149811.jpg",
@@ -1381,7 +1519,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "Credit Flickr user 'thru-my-eyes'"
     },
     {
       "file": "ganesha__OMF17-ganesha-build__33189087926.jpg",
@@ -1400,7 +1539,8 @@
       "capture_date": "2017-03-02",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'rare build shot of ganesha'"
     },
     {
       "file": "ganesha__OMF17-ganesha-detail__32386641124.jpg",
@@ -1419,7 +1559,8 @@
       "capture_date": "2017-03-02",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'rare detail shot of that piece'"
     },
     {
       "file": "OMF17-camp__33074508812.jpg",
@@ -1438,7 +1579,8 @@
       "capture_date": "2017-03-02",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'our camp that year'"
     },
     {
       "file": "OMF17-firewood__33130742272.jpg",
@@ -1457,7 +1599,8 @@
       "capture_date": "2017-03-03",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'nice firewood stacks"
     },
     {
       "file": "OMF17-portal__33098669092.jpg",
@@ -1476,7 +1619,8 @@
       "capture_date": "2017-03-02",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'love this portal shot' — hero"
     },
     {
       "file": "OMF17-okee__33254549345.jpg",
@@ -1495,7 +1639,8 @@
       "capture_date": "2017-03-02",
       "hero": false,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK: 'been looking for these for YEARS okee2017'"
     },
     {
       "file": "OMF17-05__32411048414.jpg",
@@ -1514,7 +1659,8 @@
       "capture_date": "2017-03-02",
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Likely a Charlie metal fire piece; work unconfirmed"
     },
     {
       "file": "fleeble-flobbler__fleeble-iconic__25384658202.jpg",
@@ -1533,7 +1679,8 @@
       "capture_date": "2016-03-03",
       "hero": true,
       "confidence": "high",
-      "status": "local"
+      "status": "local",
+      "notes": "KK-flagged MOST ICONIC Fleeble shot (same frame featured in his 2023 blog) — HERO SHOT"
     },
     {
       "file": "fleeble-flobbler__sparceland__fleebler-in-texas__8e31d4.jpg",
@@ -1552,7 +1699,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "fleeble-flobbler__sparceland__image-asset__bbea4f.jpeg",
@@ -1571,7 +1719,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "fleeble-flobbler__sparceland__17813813-10155215256004243-511594455-n__dc01e3.jpg",
@@ -1590,7 +1739,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__11999608-10153408330476773-2728126910013__e43e9c.jpg",
@@ -1609,7 +1759,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__timestar-2012scale__687ffe.jpg",
@@ -1628,7 +1779,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__yoga-247-star__a409c1.jpg",
@@ -1647,7 +1799,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__11951555-10205304129059119-3903135082583__d0ae53.jpg",
@@ -1666,7 +1819,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__charlie-2522blackcat-2522-and-his-timest__1722eb.jpg",
@@ -1685,7 +1839,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__img-6996__83247f.jpg",
@@ -1704,7 +1859,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__image-asset__109309.jpeg",
@@ -1723,7 +1879,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__image-asset__9917f6.jpeg",
@@ -1742,7 +1899,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "time-star__sparceland__c-portrait1starnwil__da6115.jpg",
@@ -1761,7 +1919,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__e7ee36.jpeg",
@@ -1780,7 +1939,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__bird-cage2__14f1c6.jpg",
@@ -1799,7 +1959,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__evereman3__961e35.jpg",
@@ -1818,7 +1979,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__firebirds1__e1b6f9.jpg",
@@ -1837,7 +1999,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__tripple-by-pass-africa__a9927e.jpg",
@@ -1856,7 +2019,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__synapses-center__3301c0.jpg",
@@ -1875,7 +2039,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__10157400-732429746810360-632976613502463__a77278.jpg",
@@ -1894,7 +2059,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__b93c4c.jpeg",
@@ -1913,7 +2079,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__28abaf.jpeg",
@@ -1932,7 +2099,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__1c76bc.jpeg",
@@ -1951,7 +2119,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-9717__175ab2.jpg",
@@ -1970,7 +2139,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__621f7a.jpeg",
@@ -1989,7 +2159,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__c5f5b1.jpeg",
@@ -2008,7 +2179,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-3298__6da4f5.jpg",
@@ -2027,7 +2199,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__440b78.jpeg",
@@ -2046,7 +2219,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-2661__7008ab.jpg",
@@ -2065,7 +2239,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-5848__feb784.jpg",
@@ -2084,7 +2259,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-3818__23d2e7.jpg",
@@ -2103,7 +2279,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-1169__41e2da.jpg",
@@ -2122,7 +2299,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-0185__e72bcf.jpg",
@@ -2141,7 +2319,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-0869__c73d94.jpg",
@@ -2160,7 +2339,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-0897__42b387.jpg",
@@ -2179,7 +2359,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-1092__0354ba.jpg",
@@ -2198,7 +2379,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-0246__b0f2ab.jpg",
@@ -2217,7 +2399,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__1235985-10151560693716315-832299547-n__356c0d.jpg",
@@ -2236,7 +2419,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__1236927-10151560693036315-4253785-n__f3df4d.jpg",
@@ -2255,7 +2439,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__e97d55.png",
@@ -2274,7 +2459,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__ejm6372__46746a.jpg",
@@ -2293,7 +2479,8 @@
       "capture_date": "2018-01-26",
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__fabrication-process__d9d228.jpg",
@@ -2312,7 +2499,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__firebirds__cb8405.jpg",
@@ -2331,7 +2519,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__afrikaburns-tripple-bypass__80a0cd.jpg",
@@ -2350,7 +2539,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__time-star-red__9953e8.jpg",
@@ -2369,7 +2559,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__time-star-5__ad61e1.jpg",
@@ -2388,7 +2579,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__piggy-nyc-116__ba418e.jpg",
@@ -2407,7 +2599,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__piggy-nyc-076__d03408.jpg",
@@ -2426,7 +2619,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__piggy-nyc-060__9804e9.jpg",
@@ -2445,7 +2639,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__piggy-nyc-051__a03f19.jpg",
@@ -2464,7 +2659,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__sparsleand-studio__c303b2.jpg",
@@ -2483,7 +2679,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__hearth-inside-fire-of-fires__42e7f3.jpg",
@@ -2502,7 +2699,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__goatheadedrooster__fbd692.jpg",
@@ -2521,7 +2719,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__ejmoriarty__05fe7f.jpg",
@@ -2540,7 +2739,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__dsc-1046__d42db9.jpg",
@@ -2559,7 +2759,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__unnamed-1__bc12df.jpg",
@@ -2578,7 +2779,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__camp-frontage-2014__bf8462.jpg",
@@ -2597,7 +2799,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__304060-10150309143539076-1982985047-n__fbc2ea.jpg",
@@ -2616,7 +2819,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__ganecko__5ee455.jpg",
@@ -2635,7 +2839,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__9d66cc.jpeg",
@@ -2654,7 +2859,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__41719e.jpeg",
@@ -2673,7 +2879,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__cc9b72.jpeg",
@@ -2692,7 +2899,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__d2c8f1.jpeg",
@@ -2711,7 +2919,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__image-asset__c2020f.jpeg",
@@ -2730,7 +2939,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "sparceland__304060-10150309143539076-1982985047-n__5ebd9f.jpg",
@@ -2749,7 +2959,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "sparceland CDN image"
     },
     {
       "file": "scans/andsoon__andsoon.gif",
@@ -2768,7 +2979,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/cheekyfreak__cheekyfreak.gif",
@@ -2787,7 +2999,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/chicken__rooster.jpg",
@@ -2806,7 +3019,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/chickenbaby__chickenbaby.jpg",
@@ -2825,7 +3039,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/chickens__chickens.gif",
@@ -2844,7 +3059,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/cuspofgoodness__cuspofgoodness.gif",
@@ -2863,7 +3079,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/eff__eff.gif",
@@ -2882,7 +3099,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/girlfrosty__girlfrosty.jpg",
@@ -2901,7 +3119,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/heresmyditty__heresmyditty.gif",
@@ -2920,7 +3139,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/isleptandslept__isleptandslept.gif",
@@ -2939,7 +3159,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/newworldorder__newworldorder.gif",
@@ -2958,7 +3179,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/orsoonethinks__orsoonethinks.gif",
@@ -2977,7 +3199,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/pbr__pbr.jpg",
@@ -2996,7 +3219,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/sohereitis__sohereitis.gif",
@@ -3015,7 +3239,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/sothestorygoes__sothestorygoes.gif",
@@ -3034,7 +3259,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/walkingwithchickens__walkingwithchickens.gif",
@@ -3053,7 +3279,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "scans/wanderinghorse__wanderinghorse.gif",
@@ -3072,7 +3299,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "medium",
-      "status": "local"
+      "status": "local",
+      "notes": "poem visual from old site"
     },
     {
       "file": "red-hot-cock__bonnaroocock.jpg",
@@ -3091,7 +3319,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "old-site news gallery image"
     },
     {
       "file": "fleeble-flobbler__bonnarooteeter.jpg",
@@ -3110,7 +3339,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "old-site news gallery image"
     },
     {
       "file": "contraptions__contraptions10.jpg",
@@ -3129,7 +3359,8 @@
       "capture_date": "2007-09-18",
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "old-site news gallery image"
     },
     {
       "file": "tunnel-of-transformation__jontunnelvolcano.jpg",
@@ -3148,7 +3379,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "old-site news gallery image"
     },
     {
       "file": "L195106-R01-041-19.jpg",
@@ -3167,7 +3399,8 @@
       "capture_date": "2007-08-06",
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "Film scan; symbol-disc cutouts suggest Synapses-era symbol cauldron — confirm with Charlie"
     },
     {
       "file": "synapses-tour__synapses.jpg",
@@ -3186,7 +3419,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "old-site news gallery image"
     },
     {
       "file": "time-star__ajc-beltline-star.jpg",
@@ -3205,7 +3439,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "dropped-auth-gated"
+      "status": "dropped-auth-gated",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "fleeble-flobbler__creativeloafing-fleeble.png",
@@ -3224,7 +3459,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "time-star__artsatl-beltline.jpg",
@@ -3243,7 +3479,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "time-star__beltline-timestar.jpg",
@@ -3262,7 +3499,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "bmj-2015-artist-update.jpg",
@@ -3281,7 +3519,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "time-star__bmj-2012-honoraria.jpg",
@@ -3300,7 +3539,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "red-hot-cock__bmj-2018-honoraria.png",
@@ -3319,7 +3559,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "kriskrug-profile.jpg",
@@ -3338,7 +3579,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "red-hot-cock__kriskrug-redhotcock.jpg",
@@ -3357,7 +3599,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "fleeble-flobbler__liveandlisten-hulaween.jpg",
@@ -3376,7 +3619,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "press article lead image (og:image)"
     },
     {
       "file": "kk-interview-modern-myths-2023__ksJDcyZmvh4.jpg",
@@ -3395,7 +3639,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "youtube maxres thumbnail (reference still)"
     },
     {
       "file": "kk-redhotcock-shrine-2023__CSoU5gZDL6Y.jpg",
@@ -3414,7 +3659,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "youtube maxres thumbnail (reference still)"
     },
     {
       "file": "redhotcock-build-2018__eL3aEgK2YCs.jpg",
@@ -3433,7 +3679,8 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "youtube maxres thumbnail (reference still)"
     },
     {
       "file": "meet-the-blackcats-2024__bRfHe2OxmY4.jpg",
@@ -3452,7 +3699,3068 @@
       "capture_date": null,
       "hero": false,
       "confidence": "low",
-      "status": "local"
+      "status": "local",
+      "notes": "youtube maxres thumbnail (reference still)"
+    },
+    {
+      "file": "00961019-D6A4-4BAE-876A-0A3F6C6ADB44__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/00961019-D6A4-4BAE-876A-0A3F6C6ADB44__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie laughing with capped crewmate during steel-beam build on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "0199AA2B-81D9-4AAE-B382-A0A56D3D7A56__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/0199AA2B-81D9-4AAE-B382-A0A56D3D7A56__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie and gold-suited bearded friend pose grinning at shaded camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-31",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "083BA554-380B-46E8-A338-692AC90F9C19__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/083BA554-380B-46E8-A338-692AC90F9C19__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew group portrait at night beneath jackal-rooster sculpture with string lights",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-02",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crowd; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "0ACAB38B-5E2E-4CD0-9164-F5989A671261__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/0ACAB38B-5E2E-4CD0-9164-F5989A671261__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie embraces crewmate beside steel sculpture base on bright open playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "126DCE22-4D4A-46DD-A067-444BEC08E01B__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/126DCE22-4D4A-46DD-A067-444BEC08E01B__dngprev.jpg",
+      "work_id": null,
+      "subject": "dark/near-black frame",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 1852,
+      "height": 1852,
+      "long_edge": 1852,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "scene: other"
+    },
+    {
+      "file": "1B1648BE-FA9D-4E92-B9EC-97141F2C48B5__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/1B1648BE-FA9D-4E92-B9EC-97141F2C48B5__dngprev.jpg",
+      "work_id": null,
+      "subject": "Two bearded crew in trucker cap and bandana pose under shade tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1598,
+      "long_edge": 2560,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "1BAA0E86-0BF6-48DB-9CD1-1A6F065D00AE__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/1BAA0E86-0BF6-48DB-9CD1-1A6F065D00AE__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie tends glowing fire-cooker firebox at night, festival lights streaking",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-03",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: burn-night; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "1BB0E362-E4C0-4C77-AC89-FEF13CF1E60E__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/1BB0E362-E4C0-4C77-AC89-FEF13CF1E60E__dngprev.jpg",
+      "work_id": null,
+      "subject": "dark/near-black frame",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2047,
+      "height": 1169,
+      "long_edge": 2047,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "scene: other"
+    },
+    {
+      "file": "1D5D2B74-00B2-4184-A7CB-54A9C4ED2691__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/1D5D2B74-00B2-4184-A7CB-54A9C4ED2691__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie leans cheek-to-cheek with smiling woman in sunhat at camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "1F8591A5-F4FA-4A63-ACC3-CF2A0E0D3D3E__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/1F8591A5-F4FA-4A63-ACC3-CF2A0E0D3D3E__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie working the fire-cooker amid streaking lights and night crowd",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 2242,
+      "long_edge": 2560,
+      "capture_date": "2018-03-03",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: burn-night; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "20180824_103517.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180824_103517.jpg",
+      "work_id": null,
+      "subject": "Crew pose with orange United Rentals telehandler in dusty desert haze",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 3024,
+      "long_edge": 4032,
+      "capture_date": "2018-08-24",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: SM-G965W"
+    },
+    {
+      "file": "20180825_101436.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180825_101436.jpg",
+      "work_id": null,
+      "subject": "Crew relax around camp table under printed-banner shade, shirtless man at right",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 3024,
+      "long_edge": 4032,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 3 crew; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "20180825_104403.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180825_104403.jpg",
+      "work_id": null,
+      "subject": "Crew gathered around bottle-strewn camp table laughing under tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 3024,
+      "long_edge": 4032,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "20180830_144352.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180830_144352.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Goofy upside-down selfie of two crew under camp tent with cock banner",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 1960,
+      "long_edge": 4032,
+      "capture_date": "2018-08-30",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "20180830_144356.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180830_144356.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Goofy upside-down selfie of two grinning crew beneath painted cock banner",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 1960,
+      "long_edge": 4032,
+      "capture_date": "2018-08-30",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "20180903_133902.jpg",
+      "path": "Red-Hot-Cock-BM2018/20180903_133902.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie shirtless with belly tattoo holds court at truck tailgate camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 1960,
+      "long_edge": 4032,
+      "capture_date": "2018-09-03",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "25650EF8-1674-4444-8B7B-EBA12E206032__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/25650EF8-1674-4444-8B7B-EBA12E206032__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie eats popsicle before rooster sculpture, 'Creativity Addiction Redemption' title card",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: signage"
+    },
+    {
+      "file": "27E4E656-311E-43B6-855C-63A7D7938E30__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/27E4E656-311E-43B6-855C-63A7D7938E30__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Whole crew cheers arms-up before steel sculpture on hazy playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1253,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "2DF8D08F-2E87-4F15-B6D3-8122CD71B0CC__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/2DF8D08F-2E87-4F15-B6D3-8122CD71B0CC__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie hugs grey-haired woman beside RV, both beaming",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "35ED9FAD-E0FC-492C-9AC1-EE49624FD732__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/35ED9FAD-E0FC-492C-9AC1-EE49624FD732__dngprev.jpg",
+      "work_id": null,
+      "subject": "Crew crowd around bottle-laden camp table laughing under shade tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1920,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: camp; cam: SM-G965W"
+    },
+    {
+      "file": "3CBA0692-68F8-4541-99B0-5E12F291F9BC__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/3CBA0692-68F8-4541-99B0-5E12F291F9BC__dngprev.jpg",
+      "work_id": null,
+      "subject": "Big dusty crew group portrait piled around open car hatch on playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1428,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "3F40B58E-7F6E-43C2-A260-5C6B3451F69F__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/3F40B58E-7F6E-43C2-A260-5C6B3451F69F__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie and vested crewmate pose atop the sculpture's curved steel form",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-23",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "500FEBC8-EC60-4B46-99B6-7807CBB49DD9__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/500FEBC8-EC60-4B46-99B6-7807CBB49DD9__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie poses arm-in-arm with strawhat ranger-vest friend on bright playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "51B59FF8-DD0B-44E2-B55E-90BDE9597F28__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/51B59FF8-DD0B-44E2-B55E-90BDE9597F28__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Banner graphic 'Charlie Blackcat Smith, Johnny Appleseed of Burning Man'",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 888,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: signage"
+    },
+    {
+      "file": "55AF3750-5059-41AD-B695-9A96F8399F62__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/55AF3750-5059-41AD-B695-9A96F8399F62__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie playfully licks crewmate's face in three-man tailgate portrait",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "56FBA27E-34C2-4A76-AF20-0042D735C02B__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/56FBA27E-34C2-4A76-AF20-0042D735C02B__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Couple poses by black-flagged Jeep beside jackal-head sculpture on playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: landscape; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "5F3A2A27-FD79-4D40-B8E6-5B3D3D52B847__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/5F3A2A27-FD79-4D40-B8E6-5B3D3D52B847__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Couple poses by black-flagged Jeep beside jackal-head sculpture on playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: crowd; scene: landscape; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "63E61676-2B5E-4A34-98EC-2A632D427D83__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/63E61676-2B5E-4A34-98EC-2A632D427D83__dngprev.jpg",
+      "work_id": null,
+      "subject": "Two bearded crew in trucker cap and bandana pose under shade tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1598,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait"
+    },
+    {
+      "file": "65A6AD8A-8EC6-4614-9E4B-5E3E5FD56E66__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/65A6AD8A-8EC6-4614-9E4B-5E3E5FD56E66__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie eats popsicle before rooster sculpture, 'Creativity Addiction Redemption' Krug card",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: signage"
+    },
+    {
+      "file": "6B062FBB-4C9A-46E7-9133-A3C453BACA65__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/6B062FBB-4C9A-46E7-9133-A3C453BACA65__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie leads seated crew meeting circle under shade structure",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "6C98652F-8E10-4B84-9912-A6EBFA265569__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/6C98652F-8E10-4B84-9912-A6EBFA265569__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Dusty crew group portrait at truck tailgate, Charlie center flashing horns",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 960,
+      "height": 720,
+      "long_edge": 960,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: crew"
+    },
+    {
+      "file": "6F798316-B79D-4816-B224-9EB4393A37D2__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/6F798316-B79D-4816-B224-9EB4393A37D2__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie poses with friend in Nietzsche tee amid streaking night lights",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-02",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "70C46D76-8C50-47A7-83D4-D22DAA9C69C1__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/70C46D76-8C50-47A7-83D4-D22DAA9C69C1__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie hugs woman before winged metal sculpture and dusty car",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "7FBEAE9B-B8AF-4CEF-9FEC-3386ABFB1CEF__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/7FBEAE9B-B8AF-4CEF-9FEC-3386ABFB1CEF__dngprev.jpg",
+      "work_id": null,
+      "subject": "Three bearded crew arm-in-arm grin for portrait on open playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-23",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "88FB0A98-879F-44B5-894C-5F2C0EEE5862__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/88FB0A98-879F-44B5-894C-5F2C0EEE5862__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Dusty crew group portrait at truck tailgate, Charlie center flashing horns",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 960,
+      "height": 720,
+      "long_edge": 960,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: crew"
+    },
+    {
+      "file": "8D0FA647-B834-438D-999D-648CDF411A46__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/8D0FA647-B834-438D-999D-648CDF411A46__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie poses with friend in Nietzsche tee amid streaking night lights",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 256,
+      "height": 171,
+      "long_edge": 256,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait"
+    },
+    {
+      "file": "9264CCEE-C89F-4980-A7A2-A39B342A9356__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/9264CCEE-C89F-4980-A7A2-A39B342A9356__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie eats red popsicle, green grass and festival tents behind",
+      "event": "Okeechobee Music Festival 2016/2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-02",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "9E423F2F-5806-4C66-BB2C-07EF5C211798__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/9E423F2F-5806-4C66-BB2C-07EF5C211798__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie eats popsicle before rooster sculpture, 'Creativity Addiction Redemption' title card",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-01",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: signage; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "9EEC42C9-BEE5-4E28-A8A5-D2FA24FDCB17__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/9EEC42C9-BEE5-4E28-A8A5-D2FA24FDCB17__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie eats popsicle before rooster sculpture, 'Creativity Addiction Redemption' title card",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie; scene: signage"
+    },
+    {
+      "file": "A3CB03D8-0062-47FF-A943-6E0A8B5D6E7D__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/A3CB03D8-0062-47FF-A943-6E0A8B5D6E7D__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie licks popsicle at sunset, jackal-rooster sculpture behind; 'Creativity Addiction Redemption' interview title graphic",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: signage"
+    },
+    {
+      "file": "A3EEB790-6623-4DFD-88B3-C19512E25B55__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/A3EEB790-6623-4DFD-88B3-C19512E25B55__dngprev.jpg",
+      "work_id": null,
+      "subject": "All-black frame, no visible image content (blank or corrupt preview)",
+      "event": null,
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 1024,
+      "height": 683,
+      "long_edge": 1024,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "scene: other; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "A6E4F749-B863-45B2-8D36-3D3AB752D1E9__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/A6E4F749-B863-45B2-8D36-3D3AB752D1E9__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew lounging under shade structure mid-build, Charlie seated center gesturing",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1361,
+      "long_edge": 2560,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus ~6 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "ABE80BF8-C7FC-42EA-A83F-3D7D8173B2A0__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/ABE80BF8-C7FC-42EA-A83F-3D7D8173B2A0__dngprev.jpg",
+      "work_id": null,
+      "subject": "Dusty trio poses on playa, bearded man in shark-tooth helmet and goggles",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "B0D36B1A-C6EC-4CC6-9A3D-E42359AB22BD__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/B0D36B1A-C6EC-4CC6-9A3D-E42359AB22BD__dngprev.jpg",
+      "work_id": null,
+      "subject": "Two crew embrace and laugh on dusty playa, RVs behind in haze",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "B2532914-4297-432A-9ABA-97697878DE7E__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/B2532914-4297-432A-9ABA-97697878DE7E__dngprev.jpg",
+      "work_id": null,
+      "subject": "All-black frame, no visible image content (blank or corrupt preview)",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2220,
+      "height": 1080,
+      "long_edge": 2220,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "scene: other"
+    },
+    {
+      "file": "B4D698C3-B4DA-48E4-9EA3-453BB3DBB6E3__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/B4D698C3-B4DA-48E4-9EA3-453BB3DBB6E3__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie tends glowing forge/firebox at night, light streaks across frame",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-03-03",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: burn-night; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "B8CF1ABC-9FE6-45BE-B16A-41A30B207205__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/B8CF1ABC-9FE6-45BE-B16A-41A30B207205__dngprev.jpg",
+      "work_id": null,
+      "subject": "Gold-turbaned crewmate kisses smiling Charlie's cheek at sunlit camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-31",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "BF341617-1AA5-4582-B327-755EE96238BE__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/BF341617-1AA5-4582-B327-755EE96238BE__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Couple poses by black-flagged jeep, jackal-headed sculpture on trailer at left",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: ride; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "CA221C47-9792-440B-8EF7-10BEDA1D152A__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/CA221C47-9792-440B-8EF7-10BEDA1D152A__dngprev.jpg",
+      "work_id": null,
+      "subject": "Two crew clown around against dusty Cherokee, one kicking leg up",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "CE7F53F0-3043-4F8F-B86B-B713EB65558C__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/CE7F53F0-3043-4F8F-B86B-B713EB65558C__dngprev.jpg",
+      "work_id": null,
+      "subject": "Heartfelt hug beside art car with metal bird on roof, vast white playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "D2B93796-5982-4E66-8074-912172A2889E__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/D2B93796-5982-4E66-8074-912172A2889E__dngprev.jpg",
+      "work_id": null,
+      "subject": "Couple poses at dusk before tall metal sculpture and bike cart",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "F6B4BAC4-7EA1-4DE5-9AE5-0CD5062E73A0__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/F6B4BAC4-7EA1-4DE5-9AE5-0CD5062E73A0__dngprev.jpg",
+      "work_id": null,
+      "subject": "Charlie grins in Elmyr's cap at grassy festival, ferris wheel behind",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1706,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: portrait"
+    },
+    {
+      "file": "F7F1B34D-111C-4222-B3EE-2E5E913C297F__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/F7F1B34D-111C-4222-B3EE-2E5E913C297F__dngprev.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Charlie portrait with popsicle and sunset sculpture, KRUG-branded interview cover",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1707,
+      "long_edge": 2560,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: signage"
+    },
+    {
+      "file": "FB_IMG_1536239829141.jpg",
+      "path": "Red-Hot-Cock-BM2018/FB_IMG_1536239829141.jpg",
+      "work_id": null,
+      "subject": "Charlie and bearded gold-shirted crewmate grin together beside cooler at dusk",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 720,
+      "height": 960,
+      "long_edge": 960,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: portrait"
+    },
+    {
+      "file": "FB_IMG_1536857064269.jpg",
+      "path": "Red-Hot-Cock-BM2018/FB_IMG_1536857064269.jpg",
+      "work_id": null,
+      "subject": "Shirtless crewmate hugs Charlie who waves black-dot flag in dust storm by Penske truck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 1080,
+      "height": 720,
+      "long_edge": 1080,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: crew"
+    },
+    {
+      "file": "FCE543AC-AD66-4CFB-BD41-19DC7D90FD5C__dngprev.jpg",
+      "path": "Red-Hot-Cock-BM2018/FCE543AC-AD66-4CFB-BD41-19DC7D90FD5C__dngprev.jpg",
+      "work_id": null,
+      "subject": "Profile portrait of Charlie in bandana and shades at grassy festival, pink tent behind",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2560,
+      "height": 1556,
+      "long_edge": 2560,
+      "capture_date": "2018-03-01",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A3028_THUR_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A3028_THUR_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie in profile, bandana and trucker cap, tattooed chest, festival field behind",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3376,
+      "long_edge": 5555,
+      "capture_date": "2018-03-01",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A3036_THUR_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A3036_THUR_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie bites a red popsicle, tattooed and shirtless under vest at festival",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-03-01",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A3060_THUR_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A3060_THUR_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie seated in mirrored shades and pin-covered cap, arms crossed, tattoos showing",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-03-01",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A4506_SUN_OMF18-COLLAGE.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A4506_SUN_OMF18-COLLAGE.jpg",
+      "work_id": null,
+      "subject": "Night collage of festival crowd and crew portraits, Charlie among them",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2046,
+      "height": 2046,
+      "long_edge": 2046,
+      "capture_date": "2018-03-02",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus crew; scene: other; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A4633_SUN_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A4633_SUN_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie and Tesla-tee friend mug for camera amid neon light trails at night",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3704,
+      "long_edge": 5555,
+      "capture_date": "2018-03-02",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A4634_SUN_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A4634_SUN_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie and Tesla-tee friend smile arm-in-arm by metal sculpture under light streaks",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3704,
+      "long_edge": 5555,
+      "capture_date": "2018-03-02",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A4635_SUN_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A4635_SUN_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie and friend pull wild faces for the camera amid night light trails",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3262,
+      "long_edge": 5555,
+      "capture_date": "2018-03-02",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith plus 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "KK__0U6A4901_SUN_OMF18.jpg",
+      "path": "Red-Hot-Cock-BM2018/KK__0U6A4901_SUN_OMF18.jpg",
+      "work_id": null,
+      "subject": "Charlie serves cooked food from firebox to outstretched hands at night",
+      "event": "Okeechobee Music Festival 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 4865,
+      "long_edge": 5555,
+      "capture_date": "2018-03-03",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: burn-night; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A6993.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A6993.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew laying out steel beams and plywood base on bright empty playa, day one of build",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 5 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A6998.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A6998.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Dusty build crew piles up grinning behind open hatchback on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3976,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: ~12 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7001.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7001.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Build crew group photo crammed around hatchback, one sprawled in front",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3098,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: ~13 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7005.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7005.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Whole ASS Camp crew packed around hatchback for a dusty team portrait",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: ~14 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7017.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7017.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew unloads ornate metal sculpture panel from Penske truck onto playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: ~6 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7019.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7019.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew lifts large curved engraved metal tail-piece down from Penske truck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 5 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7029.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7029.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew passes black steel panels out of Penske truck during unload",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: ~6 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7031.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7031.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Grey-haired crewman and bandana'd crew carry long steel panel across playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3480,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 4 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7032.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7032.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Dusty crew member in gloves bolts steel teeter base together on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7037.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7037.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew hug and rest on a moving-truck tailgate amid scattered tools and sawhorses",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7050.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7050.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Three grinning crewmates pile together for a goofy portrait inside a truck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3342,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7052.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7052.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "One man licks another's cheek in a silly close-up crew portrait",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7053.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7053.jpg",
+      "work_id": "fleeble-flobbler",
+      "subject": "Builders assemble the long steel teeter beam marked 'Fleeble Floobler' on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7057.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7057.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Two crewmates embrace beside the star-marked steel base under wide desert sky",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7058.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7058.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Laughing crewmate in Beronio Lumber tee jokes while others work the steel frame",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7078.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7078.jpg",
+      "work_id": null,
+      "subject": "Two crewmates clown for the camera leaning against a dusty black Jeep Cherokee",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7080.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7080.jpg",
+      "work_id": null,
+      "subject": "Tight portrait of two crewmates laughing and mugging against a vehicle",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7105.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7105.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Two crewmates talk seated on a truck tailgate in the open dusty playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7107.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7107.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "The jackal rooster's ornate cut-metal head rests on the playa beside its steel teeter base",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3388,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7111.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7111.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew assembles the steel teeter frame as one watches and another carries lumber",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7131.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7131.jpg",
+      "work_id": null,
+      "subject": "Two crewmates pose arm-in-arm before a yellow Penske truck, one in Angry Birds tee",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7139.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7139.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Whole build crew throws hands up cheering atop the finished steel base",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 2719,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew (~15); scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7141.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7141.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Build crew celebrates with raised fists and peace signs on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-22",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew (~15); scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7143.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7143.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew gathers under a shade tent for a build meeting beside the truck and tents",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7145.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7145.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crewmate gestures while briefing the seated team under a shade structure",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7147.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7147.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew circle listens during a planning huddle in the shade tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7148.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7148.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew stand and sit talking under the shade tent during a work break",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 2954,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7151.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7151.jpg",
+      "work_id": null,
+      "subject": "Bearded man in yellow cap and bandana-wearing crewmate pose under shade cloth",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3467,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayone0U6A7153.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayone0U6A7153.jpg",
+      "work_id": null,
+      "subject": "Two crewmates pose arm-in-arm inside the bright grey shade tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6766.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6766.jpg",
+      "work_id": null,
+      "subject": "Crewmate carries a laundry basket across a tree-lined Reno parking lot pre-playa",
+      "event": null,
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 2 crew; scene: other; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6792.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6792.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew check in at a DMV art-support tent, paperwork and lanyards on the table",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: signage; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6796.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6796.jpg",
+      "work_id": null,
+      "subject": "Artists gather around concierge whiteboards inside the art-support DMV tent",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: signage; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6801.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6801.jpg",
+      "work_id": null,
+      "subject": "Three crew chat between vehicles in hazy dust on a flat playa morning",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6808.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6808.jpg",
+      "work_id": null,
+      "subject": "Crewmate and a straw-hatted ranger in ASS Camp shirt pose together on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6811.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6811.jpg",
+      "work_id": null,
+      "subject": "Two crewmates lean together for a sunlit portrait in blowing playa dust",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6816.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6816.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Shirtless and gloved crew rig a tripod gin pole as one points the way",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6818.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6818.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew lays out steel gin-pole legs by the rental trucks at dusty camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 4 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6822.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6822.jpg",
+      "work_id": null,
+      "subject": "Crewmate holds the black-dot 'Open' flag beside a truck in a dust storm",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6828.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6828.jpg",
+      "work_id": null,
+      "subject": "Crewmate strikes a wide stance waving the black-dot flag at the yellow Penske truck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6831.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6831.jpg",
+      "work_id": null,
+      "subject": "Two shirtless men hug under a waving black-dot flag in golden playa dust",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: camp; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6853.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6853.jpg",
+      "work_id": null,
+      "subject": "Long-bearded man in black hat and grinning crewmate pose arm-in-arm at camp",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6855.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6855.jpg",
+      "work_id": null,
+      "subject": "Backlit full-length portrait of two crewmates leaning together in playa haze",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6861.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6861.jpg",
+      "work_id": null,
+      "subject": "Smiling silver-haired woman and crewmate share a warm hug beside an RV",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6863.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6863.jpg",
+      "work_id": null,
+      "subject": "Tender close portrait of a beaming older woman cheek-to-cheek with a crewmate",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6889.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6889.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew heaves the tall gin-pole upright by hand under the night sky",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew (~6); scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6907.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6907.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew drives an anchor stake by floodlight as a rigger tends the guy line at night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6911.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6911.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crewmate coils rope while another swings a sledge at the chariot base by night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6914.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6914.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Headlamp-lit crewmate raises a sledge as another holds the guy line at night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6929.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6929.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Barefoot crew member hauls a steel beam across dusty ground at night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6936.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6936.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Couple embraces at dusk before the jackal-headed rooster sculpture on its teeter base",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6938.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6938.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Man pulls a guy-line, arm around a woman, sculpture silhouetted in twilight",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 2 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6944.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6944.jpg",
+      "work_id": null,
+      "subject": "Warm-lit night portrait of a smiling woman in a goggle-topped hat",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6965.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6965.jpg",
+      "work_id": null,
+      "subject": "Crew strains to stretch a large shade tarp taut at night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6969.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6969.jpg",
+      "work_id": null,
+      "subject": "Crew raising a shade structure under work lights, traffic cone in foreground",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: several crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-dayzero0U6A6978.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-dayzero0U6A6978.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Bearded man hauls hard on a rope at night, straining over a wooden base",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3703,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-21",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 1 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-10.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-10.jpg",
+      "work_id": null,
+      "subject": "Bearded man in straw hat holds up a hand-drawn 'Dragon Fossil' burn-schedule sign under camp banners",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3201,
+      "long_edge": 5555,
+      "capture_date": "2018-08-26",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 4 crew; scene: camp; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-18.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-18.jpg",
+      "work_id": null,
+      "subject": "Charlie gestures with a bullhorn holding court under the camp shade, beer in hand",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-26",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith, plus crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-29.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-29.jpg",
+      "work_id": null,
+      "subject": "Tender close portrait of a red-haired woman resting against a bearded tattooed man",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-30",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-3.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-3.jpg",
+      "work_id": null,
+      "subject": "Charlie in 'Hot Stuff's Friend' tee chats with campmates under the shade, bullhorn nearby",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-26",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith, plus crew; scene: camp; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-48.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-48.jpg",
+      "work_id": null,
+      "subject": "Two grinning men pose arm-in-arm on a trailer deck, one in gold turban and tee",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-31",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-49.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-49.jpg",
+      "work_id": null,
+      "subject": "Gold-clad man plants a kiss on a laughing campmate's cheek on the trailer deck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-31",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-glenns-7-COLLAGE.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-7-COLLAGE.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Multi-frame collage of camp portraits, gear, and the rooster firing at night",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2160,
+      "height": 3240,
+      "long_edge": 3240,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: crew; scene: other"
+    },
+    {
+      "file": "asscamp-glenns-8.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-glenns-8.jpg",
+      "work_id": null,
+      "subject": "Bearded man in straw hat sips a drink amid the busy camp shade gathering",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-26",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: several crew; scene: camp; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7482.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7482.jpg",
+      "work_id": null,
+      "subject": "Two men share a long hug on the truck deck as helmeted crew watch behind",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: several crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7483.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7483.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew poses below the jackal-headed rooster beside a 'Wheels On Meals' sign",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3702,
+      "height": 5555,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 8 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7491.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7491.jpg",
+      "work_id": null,
+      "subject": "Five laughing volunteers in yellow 'Wheels On Meals' vests pose on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 5 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7493.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7493.jpg",
+      "work_id": null,
+      "subject": "Yellow-vested 'Wheels On Meals' crew clown for the camera in bright daylight",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 5 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7523.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7523.jpg",
+      "work_id": null,
+      "subject": "Crew lounges by a yellow Penske truck, shirtless man toasts toward camera",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 4 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7538.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7538.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Two crew embrace on the open playa beside a rusted art-car, sculpture in distance",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7541.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7541.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Dust-covered couple poses arm-in-arm by a rusted art-car under bright sky",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7558.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7558.jpg",
+      "work_id": null,
+      "subject": "Dusty pair on the truck deck mid-conversation, woman in mirrored goggles",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: several crew; scene: crew; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7561.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7561.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew poses with a black-flagged camo Jeep, jackal-rooster sculpture at left",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3350,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: ride; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7563.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7563.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Mad-Max camo Jeep and crew framed against the rooster sculpture on the playa",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": true,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: ride; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7567.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7567.jpg",
+      "work_id": null,
+      "subject": "Three dusty friends pose, one in goggles and a wild blond playa beard",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-productions0U6A7604.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-productions0U6A7604.jpg",
+      "work_id": null,
+      "subject": "Warm relaxed portrait of a man and woman leaning together by the truck",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 5555,
+      "height": 3703,
+      "long_edge": 5555,
+      "capture_date": "2018-08-25",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 2 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-16.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-16.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew welds star-marked steel sections in blowing dust, work truck behind",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6720,
+      "height": 4480,
+      "long_edge": 6720,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 4 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-17.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-17.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Builders gather around a 'STELLAR' steel panel during a dusty build session",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6720,
+      "height": 4480,
+      "long_edge": 6720,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 4 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-19.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-19.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Crew assembles large 'STELLAR' star-marked steel platforms in playa haze",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6703,
+      "height": 4469,
+      "long_edge": 6703,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 4 crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-22.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-22.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Two builders lean on a steel structure at dawn, moon low in the sky",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6720,
+      "height": 4480,
+      "long_edge": 6720,
+      "capture_date": "2018-08-23",
+      "hero": true,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: Charlie Smith, plus crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-23.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-23.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Two smiling builders pause beside their steel fabrication at dawn",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6720,
+      "height": 4480,
+      "long_edge": 6720,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: Charlie Smith, plus crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-26.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-26.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Welder lights up a 'STELLAR' steel grid as crew works the structure",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6535,
+      "height": 4357,
+      "long_edge": 6535,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: several crew; scene: build; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "asscamp-village-33.jpg",
+      "path": "Red-Hot-Cock-BM2018/asscamp-village-33.jpg",
+      "work_id": null,
+      "subject": "Three dusty crewmates pose arm-in-arm on the open playa at dawn",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": "2018",
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 6720,
+      "height": 4480,
+      "long_edge": 6720,
+      "capture_date": "2018-08-23",
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: 3 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
+    },
+    {
+      "file": "lana-bm-prints-2.jpg",
+      "path": "Red-Hot-Cock-BM2018/lana-bm-prints-2.jpg",
+      "work_id": null,
+      "subject": "Whole crew poses in the back of the Penske truck, masks and dusty grins",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 3891,
+      "height": 2918,
+      "long_edge": 3891,
+      "capture_date": null,
+      "hero": true,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 8 crew; scene: crew"
+    },
+    {
+      "file": "lana-bm-prints.jpg",
+      "path": "Red-Hot-Cock-BM2018/lana-bm-prints.jpg",
+      "work_id": null,
+      "subject": "Crew group shot crammed in the Penske truck bed, phone-camera framing",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 4032,
+      "height": 3024,
+      "long_edge": 4032,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "high",
+      "status": "local",
+      "notes": "people: 8 crew; scene: crew"
+    },
+    {
+      "file": "mp4frame__4DsfraTKumB.jpg",
+      "path": "Video-stills/mp4frame__4DsfraTKumB.jpg",
+      "work_id": "red-hot-cock",
+      "subject": "Video title card: Charlie Blackcat Smith interview, rooster sculpture at sunset",
+      "event": "Burning Man 2018",
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 480,
+      "height": 854,
+      "long_edge": 854,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "people: Charlie Smith; scene: signage; video keyframe"
+    },
+    {
+      "file": "mp4frame__VID_20200407_095337.jpg",
+      "path": "Video-stills/mp4frame__VID_20200407_095337.jpg",
+      "work_id": null,
+      "subject": "Phone-frame portrait of a long-haired young man in red sunglasses holding a beer",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Kris Krüg",
+      "source": "local: Charlie Smith BLackcat folder (KK 2018)",
+      "rights": "kk-owned",
+      "width": 2160,
+      "height": 3840,
+      "long_edge": 3840,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "low",
+      "status": "local",
+      "notes": "people: 1 person; scene: portrait; video keyframe"
+    },
+    {
+      "file": "timestar-video-1__aw3dDEIexYk.jpg",
+      "path": "Video-stills/timestar-video-1__aw3dDEIexYk.jpg",
+      "work_id": "time-star",
+      "subject": "'24/7 Timestar - Timing Is Everything' video thumbnail (2012)",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Charlie Smith",
+      "source": "https://www.youtube.com/watch?v=aw3dDEIexYk",
+      "rights": "video-still",
+      "width": null,
+      "height": null,
+      "long_edge": null,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "sparceland-embedded youtube (reference still); subs 429-blocked"
+    },
+    {
+      "file": "timestar-video-2__JfWAQRnY8e0.jpg",
+      "path": "Video-stills/timestar-video-2__JfWAQRnY8e0.jpg",
+      "work_id": "time-star",
+      "subject": "Timestar clip 'IMG 4387' thumbnail (2017)",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Charlie Smith",
+      "source": "https://www.youtube.com/watch?v=JfWAQRnY8e0",
+      "rights": "video-still",
+      "width": null,
+      "height": null,
+      "long_edge": null,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "sparceland-embedded youtube (reference still); subs 429-blocked"
+    },
+    {
+      "file": "fleeble-ride-video__F3QwScSPnZI.jpg",
+      "path": "Video-stills/fleeble-ride-video__F3QwScSPnZI.jpg",
+      "work_id": "fleeble-flobbler",
+      "subject": "'Fleeble Flobbler' ride clip thumbnail (2016)",
+      "event": null,
+      "location": null,
+      "year": null,
+      "credit": "Charlie Smith",
+      "source": "https://www.youtube.com/watch?v=F3QwScSPnZI",
+      "rights": "video-still",
+      "width": null,
+      "height": null,
+      "long_edge": null,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "notes": "sparceland-embedded youtube (reference still); subs 429-blocked"
     }
   ]
 }

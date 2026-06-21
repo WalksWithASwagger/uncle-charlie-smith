@@ -30,3 +30,29 @@ Appended 5 columns to `images.csv` (existing 12 kept intact): `rights, width, he
 - **Works with no local image yet:** `hearth` (only a BBB render exists), `mr-nice-guy` (the BM Journal 2015 lead image is actually Mr. Nice Guy — re-tag), `gantry`, `teetering-cusps`, `bone-head`, `discombobulator`, `solar-scope`. Most predate Charlie's web presence; would need howhowhow.com per-event galleries (mac.com album links are dead) or asking Charlie.
 - **80 images have no `work_id`** — sparceland gallery + bio images + Charlie candids not tied to a specific piece. Enrich opportunistically.
 - **sparceland gallery-shift** had 52 images; some duplicate project-page images across pages (resolved by dedup).
+
+---
+
+# Round 2 — Deep Slurp + 2018 Burning Man Master Set (2026-06-21)
+
+**Result:** catalog 160 → **313 rows**; high-res (≥2000px) 51 → **193**; heroes 15 → 65. Archive ~290 MB → ~925 MB.
+
+## Sparceland deep-slurp (4 project pages)
+Round-1 already had the pages' CDN images. New this round:
+- **3 embedded YouTube videos** catalogued + maxres thumbnails → `Video-stills/`: `aw3dDEIexYk` + `JfWAQRnY8e0` (247-time-star), `F3QwScSPnZI` (ride-shift). Auto-subs blocked by YouTube **HTTP 429** — retry later.
+- Social/donation pointers (FB `charlieblackcatsmith` + `sparselandstudios`, IG `artofsuchnsuch`, `PayPal.Me/thewakingbird`) confirmed in KB.
+- `the-waking-birddog-2018-2` genuinely has only 1 image; `burning-book-tech` has no video.
+
+## Ingest: `/Users/kk/Downloads/Charlie Smith BLackcat` (637 MB)
+- 158 files (104 JPG + 52 DNG + 2 MP4). Per KK's decision: **DNG → 2560px JPG previews** (`sips`); `.dng` masters left in Downloads (not in repo). 2 MP4s → `Video/`, one keyframe each → `Video-stills/`.
+- New folder **`Red-Hot-Cock-BM2018/`** (148 JPGs after dedup) — the **Burning Man / BRC Aug-2018 honorarium** set (distinct from the Okeechobee-March `Red-Hot-Cock-2018/`). EXIF: Canon 5D Mark IV + Galaxy S9, ~Aug 2018.
+- **Full visual captioning:** every frame captioned via 4 parallel subagents (subject, people, scene_type, work_id, event, hero). 150 new `rights=kk-owned` rows; **142/150 ≥2000px**; 0 blank subjects.
+- **Data-integrity fix:** agents mis-transcribed long UUID filenames in their output, so rows were re-keyed **positionally** against the real batch lists (filenames taken from disk, captions from agent records); batch 0 was re-captioned for clean 1:1. Final check: 148 files == 148 rows, zero ghost rows.
+- **Dedup:** 8 exact dupes removed — 4 were KK's own Flickr re-exports already pulled in Round 1 (`#OMF16_*_o.jpg`, `KK__*_OMF18.jpg`), 4 internal phone/DNG repeats. Overlap with the existing archive was small; the bulk is previously-unpublished.
+- **Mislabel fix:** 6 frames the vision pass guessed as `time-star` were 2018 RHC build shots (Time Star is a 2012 work) → corrected to `red-hot-cock`, confidence=low.
+
+## Gaps / follow-ups (Round 2)
+- 5 DNG previews are genuinely dark/near-black frames (flagged in notes); low value.
+- ~79 of the new frames have no `work_id` (camp/crew/portrait not tied to a specific sculpture) — enrich opportunistically.
+- The 52 `.dng` raw masters remain only in `~/Downloads/Charlie Smith BLackcat` (not backed up in the repo by decision).
+- Sparceland video transcripts still pending (YouTube 429).
