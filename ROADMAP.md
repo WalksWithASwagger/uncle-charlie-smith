@@ -7,13 +7,10 @@ The archive is now a solid **master-canonical foundation**: 338 captioned images
 - **Retry the video transcripts** (3 sparceland clips + Red Hot Cock build) — YouTube 429'd this session; retry later or get the files directly. Feeds the "Ask Uncle Charlie" agent.
 - **Record an oral-history session with Charlie** before Burning Book 2026 ramps — capture the build/ritual stories while they're fresh; he's the only source for the 2009–2017 gap and the early works.
 
-## Next — build ON TOP of the archive (the payoff)
-The manifest + entities are designed to drive these with little rework:
-- **Searchable web gallery** — `manifest.json` → a static site filtered by work/motif/tag/event/hero. Heroes (65) are pre-flagged.
-- **"Ask Uncle Charlie" agent** — RAG over `Brand/` (voice/worldview/glossary) + `entities/` + `Transcripts/`. Talks in his voice, cites real works.
-- **Press / grant one-pager generator** — pull a work's record + hero shots + the contraptionism frame into a kit (especially for Burning Book 2026 fundraising).
-- **Burning Book of Brian 2026 microsite** — the BBB renders, tech diagrams, and memorial story are already catalogued; wire them to a build/fundraise page.
-- **contraptionism.com** — the natural home for the whole thing as a named practice (currently a 404 naming claim). The entity model IS the content architecture for it.
+## ✅ Built — the site on top of the archive (2026-06-22)
+The "build on top" payoff is **done and deployed**: a Next.js site (gallery, 22 work pages, "Ask Uncle Charlie" agent, press/grant generator, Burning Book microsite) lives in a separate repo, **`github.com/WalksWithASwagger/contraptionism-site`**, deployed to Vercel production. It reads this archive's `manifest.json` + `works.json` + `entities/` and serves images from this repo via GitHub raw. Its forward roadmap (image optimization, launch finalization, feature depth) is tracked in that repo's `ROADMAP.md`.
+
+Launch is gated on three user actions: turn off Vercel Deployment Protection, add `ANTHROPIC_API_KEY`, and point the `contraptionism.com` domain.
 
 ## Later — depth & completeness
 - **Fill photo-less works** — `gantry`, `teetering-cusps`, `bone-head`, `discombobulator`, `hot-mama`/`mr-nice-guy` burns (howhowhow.com per-event galleries, or from Charlie).
