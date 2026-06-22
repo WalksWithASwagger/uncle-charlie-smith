@@ -38,6 +38,7 @@ Tags used across `Catalog/images.csv` and `works.json`:
 - **symbol-system** — cut-pattern iconography. ([[works/synapses-tour]], [[works/fire-birds]])
 - **seven / sun / time** — [[works/time-star]] numerology.
 - **reused-components** — past sculptures as living parts of a longer mythology. ([[works/infinite-infant]])
+- **black-dot-flag / the-period** — the black dot on a white field flown across camp = a full stop, "I am, and nothing more." Full story: [[lore/black-dot-flag]].
 - **contraptionism** — the umbrella frame above.
 
 Scene/source tags also used: `build`, `burn-night`, `crew`, `camp`, `portrait`, `detail`, `ride`, `signage`, `landscape`, `flickr`, `sparceland`, `bm-gallery`, `press`, `video-still`, plus event tags (`burning-man-2018`, `okeechobee-2016/2017/2018`, etc.).

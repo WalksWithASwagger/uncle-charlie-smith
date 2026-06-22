@@ -45,7 +45,11 @@
       "fleeble-flobbler": 26,
       "bm-gallery": 25,
       "camp": 23,
-      "heart": 22
+      "heart": 22,
+      "book": 18,
+      "burning-book": 18,
+      "heartbeat": 18,
+      "memorial": 18
     }
   },
   "entities": {
@@ -53,6 +57,7 @@
     "people": "entities/people.md",
     "motifs": "entities/motifs.md",
     "organizations": "entities/organizations.md",
+    "lore": "entities/lore/*.md",
     "works_structured": "Catalog/works.json"
   },
   "works": [
@@ -6785,11 +6790,14 @@
       "confidence": "medium",
       "status": "local",
       "tags": [
+        "black-dot-flag",
         "burning-man-2018",
         "charlie",
         "crew",
         "hero",
-        "kk-photo"
+        "kk-photo",
+        "symbol-system",
+        "the-period"
       ],
       "notes": "people: Charlie Smith plus 1 crew; scene: crew"
     },
@@ -8235,10 +8243,13 @@
       "confidence": "medium",
       "status": "local",
       "tags": [
+        "black-dot-flag",
         "burning-man-2018",
         "crew",
         "kk-photo",
-        "portrait"
+        "portrait",
+        "symbol-system",
+        "the-period"
       ],
       "notes": "people: 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
     },
@@ -8260,10 +8271,13 @@
       "confidence": "medium",
       "status": "local",
       "tags": [
+        "black-dot-flag",
         "burning-man-2018",
         "crew",
         "kk-photo",
-        "portrait"
+        "portrait",
+        "symbol-system",
+        "the-period"
       ],
       "notes": "people: 1 crew; scene: portrait; cam: Canon EOS 5D Mark IV"
     },
@@ -8285,11 +8299,14 @@
       "confidence": "medium",
       "status": "local",
       "tags": [
+        "black-dot-flag",
         "burning-man-2018",
         "camp",
         "crew",
         "hero",
-        "kk-photo"
+        "kk-photo",
+        "symbol-system",
+        "the-period"
       ],
       "notes": "people: 2 crew; scene: camp; cam: Canon EOS 5D Mark IV"
     },
