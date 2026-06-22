@@ -27,8 +27,10 @@
       ],
       "themes": "community; seven ages of man",
       "description": "Giant wood-fired sculpture at the Heart of Burning Man; co-designed/built with Syd Klinge; where Charlie met Brian Doherty",
-      "image_count": 3,
-      "hero_images": [],
+      "image_count": 4,
+      "hero_images": [
+        "HEARTH+2001.webp"
+      ],
       "sources": [
         "sparceland.com/bbb26"
       ],
@@ -324,7 +326,7 @@
       ],
       "themes": "metallic effigy; congregation",
       "description": "Recurring metallic effigy; a 2024 example is used to illustrate Burning Book congregation",
-      "image_count": 0,
+      "image_count": 1,
       "hero_images": [],
       "sources": [
         "howhowhow.com/news.html",
@@ -559,8 +561,10 @@
       ],
       "themes": "memorial; pulsing heart; the royal we",
       "description": "Memorial effigy for Brian Doherty with a pulsing LPG heart; community-built; 8-10 collaborating artists; independent/community-funded (not on the 75-project 2026 honoraria list)",
-      "image_count": 4,
-      "hero_images": [],
+      "image_count": 18,
+      "hero_images": [
+        "Bri+book+fire+bins.webp"
+      ],
       "sources": [
         "sparceland.com/bbb26",
         "sparceland.com/burning-book-tech",
@@ -593,8 +597,10 @@
       ],
       "themes": "mythic birds; congregation; transformation into ONE",
       "description": "Four 12-ft wood-fired metal bird-creature cauldrons with cut patterns lit by internal fire at night and shadow-casting wings by day; surrounded the Man as congregation areas, transformed into \"ONE\" for a Saturday eruption. Same winged cut-panel design recurs at Okeechobee 2017.",
-      "image_count": 1,
-      "hero_images": [],
+      "image_count": 2,
+      "hero_images": [
+        "fire-birds__bmgallery__3bb159f6.jpg"
+      ],
       "sources": [
         "gallery.burningman.org (Charlie Smith)",
         "GPT research note 2026"
