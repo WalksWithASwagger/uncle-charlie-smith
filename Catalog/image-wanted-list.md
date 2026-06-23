@@ -2,7 +2,9 @@
 
 Because this environment can't bulk-download binaries, this is the **shot list**: exactly which images/galleries to save (drag into `portfolio-images/`, `Hand-Drawings/`, or `BBB/`), then catalog in `Catalog/images.csv`. Hero-shot candidates are flagged for use in the website/press kit/monograph.
 
-Last updated: June 21, 2026
+Last updated: June 23, 2026.
+
+> **2026 album outcome:** Charlie's album was mostly sticker/brand art (now in `Brand/assets/`) + 3 new photos — it did **not** fill the gaps below. The paste-ready ask for the still-missing frames is in **`Charlie-Image-Requests.md`** (archive root).
 
 ---
 
@@ -40,14 +42,20 @@ Per-event film/digital albums incl.: Burning Man 2005/2007/2008, "The Making of 
 |---|---|---|
 | red-hot-cock | partial (KK Flickr) | sunrise "rock the cock" crowd shot; the jackal-rooster head glowing |
 | fleeble-flobbler | ✅ sunrise + Bonnaroo | riders mid-rock at night |
-| contraptions | partial | wide shot of the 2007 installation |
-| time-star | needed | the 7-sided star lit at BM 2012; BeltLine install |
-| hearth | needed | 2000 HEARTH on playa (Quito Banogon photo exists) |
-| synapses-tour | needed | the circle of 6 cauldrons at BM 2005 |
-| triple-bypass | partial (triplepaul.jpg) | the Cape Town burn |
-| hot-mama / mr-nice-guy | needed | fertility caldrons burning |
+| contraptions | ⚠️ low-res only (400px) | a SHARP wide shot of the 2007 installation |
+| time-star | ✅ have photos | (good) |
+| hearth | ✅ have photos | (good) |
+| synapses-tour | ✅ have photos | (good) |
+| triple-bypass | ⚠️ low-res only (400px) | the Cape Town burn, full-size |
+| hot-mama | ⚠️ low-res only (250px) | fertility caldron burning, full-size |
+| mr-nice-guy | ❌ no photo | any frame (BM 2007 / Love Burn 2015) |
+| big-bully | ⚠️ low-res only (218px) | any sharp frame (BM 2013) |
+| tunnel-of-transformation | ⚠️ low-res only (400px) | any sharp frame (~2003–04) |
+| bone-head | ❌ no photo | any frame (Dubai 2008) |
+| teetering-cusps | ❌ no photo | any frame (2003 / 2008) |
+| discombobulator | ❌ no photo | any frame (Austin 2003) |
 | burning-book | ✅ renders/diagrams in /BBB | (future) the built piece + Wednesday burn |
-| solar-scope | needed | any build progress shots (Knoxville TN) |
+| solar-scope | ❌ no photo | any build progress shots (Knoxville TN) |
 
 ---
 
