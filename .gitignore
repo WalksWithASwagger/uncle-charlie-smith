@@ -5,3 +5,9 @@
 # python
 __pycache__/
 *.pyc
+
+# large video masters — kept local / off-site, not in git (see Video/README.md)
+Video/*.mp4
+Video/*.mov
+Video/*.m4v
+Video/*.webm
