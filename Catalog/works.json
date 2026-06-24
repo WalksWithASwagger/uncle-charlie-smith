@@ -209,7 +209,7 @@
       ],
       "themes": "inner child; American clown; ride",
       "description": "22-ft rotund clown fire cauldron with eight rider seats on a pivoting base; later a flame-effects machine; recurring at Hulaween Spirit Lake (2023)",
-      "image_count": 26,
+      "image_count": 25,
       "hero_images": [
         "fleeblesunrise.jpg",
         "fleeble-flobbler__okeechobee-iconic__33130790642.jpg",
@@ -632,7 +632,7 @@
       ],
       "themes": "mythic beast; log-sacrifice; congregation",
       "description": "A fire-spewing, winged, human-headed bull; participants lined up to throw logs into its mouth \"as sacrifice.\" Confirms the long-mislabeled portfolio image bigbullysm.jpg.",
-      "image_count": 1,
+      "image_count": 3,
       "hero_images": [],
       "sources": [
         "history.burningman.org 2013 art installations",
@@ -722,12 +722,37 @@
       ],
       "themes": "directional; vessels of fire; congregation",
       "description": "CANDIDATE WORK — surfaced via a Burning Man gallery photo \"Encompassment / Directional Vessels of Fire by Charlie...\" Details unconfirmed; likely a directional fire-cauldron grouping in the Synapses lineage — verify with Charlie.",
-      "image_count": 1,
+      "image_count": 6,
       "hero_images": [],
       "sources": [
         "gallery.burningman.org (Charlie Smith)"
       ],
       "confidence": "low"
+    },
+    {
+      "work_id": "hamageddon",
+      "title": "Hamageddon",
+      "aka": "HAMAGEDON (as lettered)",
+      "type": "fire/BBQ sculpture",
+      "year_start": null,
+      "year_end": null,
+      "status": "functional",
+      "materials": "steel",
+      "dimensions": "large",
+      "event": "Prospect Park (Brooklyn) festival pig roast",
+      "interaction": "working pig-roaster / BBQ for the crowd",
+      "fire_system": "wood/charcoal roasting chamber in the body",
+      "crew_model": null,
+      "ritual": null,
+      "motifs": [],
+      "themes": "functional fire art; pig roaster; community feast",
+      "description": "A giant steel pig — a working fire/BBQ pig-roaster rig — its flank lettered \"HAMAGEDON\" (a ham/Armageddon pun), with gear-wheel hips and a mesh body housing the roasting chamber. Documented at a Prospect Park, Brooklyn festival roasting whole pigs for the crowd; Charlie's \"feed and work with one another\" ethos in functional form.",
+      "image_count": 3,
+      "hero_images": [],
+      "sources": [
+        "Charlie Smith (iMessage 2026)"
+      ],
+      "confidence": "medium"
     }
   ]
 }

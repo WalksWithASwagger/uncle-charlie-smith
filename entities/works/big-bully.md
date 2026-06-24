@@ -16,9 +16,9 @@
 
 A fire-spewing, winged, human-headed bull; participants lined up to throw logs into its mouth "as sacrifice." Confirms the long-mislabeled portfolio image bigbullysm.jpg.
 
-## Images (1)
+## Images (3)
 
-_1 catalogued image(s); see `Catalog/images.csv` (filter work_id=`big-bully`) and `Catalog/manifest.json`._
+_3 catalogued image(s); see `Catalog/images.csv` (filter work_id=`big-bully`) and `Catalog/manifest.json`._
 
 ## Sources
 - history.burningman.org 2013 art installations

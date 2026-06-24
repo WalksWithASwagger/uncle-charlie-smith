@@ -4,7 +4,13 @@ Open questions the archive can't resolve on its own — answers from Charlie tur
 
 ## 1. Candidate works (surfaced from Burning Man gallery titles — unconfirmed)
 - **"Big Charles"** — 4 BM-gallery photos, several credited to photographer *Shane Evans*; one captioned *"Big Charles and Galaxia"* (so it was near the 2018 Temple Galaxia?). Is this a distinct sculpture, a nickname for an existing piece, or a portrait of Charlie? → `entities/works/big-charles.md`
-- **"Encompassment / Directional Vessels of Fire"** — one BM-gallery photo, Charlie-attributed. A directional fire-cauldron grouping? What year/event? Related to Synapses? → `entities/works/encompassment.md`
+- **"Encompassment / Directional Vessels of Fire"** — now has **5 photos** from Charlie's June 2026 chat: twin flame-shaped steel "vessels" with perforated dot-patterns, fire from the tops, on a curved rocker base, at a forest festival (Tennessee?) beside the "Asslandia / the Gantry" camp banner. **Is this in fact Encompassment / Directional Vessels of Fire? What year + which festival?** (looks ~2023–2024). Related to Synapses? → `entities/works/encompassment.md`
+
+## 1b. New material from Charlie's chat (June 2026) — `portfolio-images/`
+- **Hamageddon** (NEW work, `hamageddon`) — a giant steel pig BBQ/roaster lettered "HAMAGEDON," documented at a **Prospect Park, Brooklyn** festival roasting whole pigs. **What year? Which festival? Photographer credits?** (3 images; 1 is off Facebook, credit unknown.)
+- **Big Bully** — 2 new photos (credit **Andrew Miller**, day HDR; **Phoenix Path Film Works**, dawn silhouette). The beast reads as a **tusked mammoth/bull**, not obviously the "winged, human-headed bull" the KB describes — **is the KB description right, and are these confirmed Big Bully (Burning Man 2013)?**
+- **Unknown film-era cauldrons** (`unknown__howhowhow__fire-cauldrons-night.jpg`) — multiple fire cauldrons erupting at night, howhowhow.com watermark. **Which piece — Synapses tour cauldrons?**
+- Charlie's camp is branded **"Asslandia / the Gantry"** at the TN festival — is "the Gantry" the camp name, or the [[gantry]] effigy on site?
 
 ## 2. Unidentified gallery photos (no work linked yet)
 - *"Visiting Robots"*, *"A Naust"*, *"Charlie and Leo"* — what/who are these? (`BurningMan-archive/`, search `bmgallery` in `Catalog/images.csv`).
