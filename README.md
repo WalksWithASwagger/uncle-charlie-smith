@@ -21,7 +21,9 @@ Uncle Charlie/
 │   └── Charlie-Glossary-and-Anti-Glossary.md
 ├── Transcripts/                      ← cleaned video/audio transcripts
 │   ├── Transcript-Charlie-Interview-2023.md
-│   └── Transcript-RedHotCock-and-Shrine-2023-KrisKrug.md
+│   ├── Transcript-RedHotCock-and-Shrine-2023-KrisKrug.md
+│   ├── Transcript-AfrikaBurn-2007-TripleBypass.md  ← earliest Charlie footage (Triple Bypass build)
+│   └── Recap-AfrikaBurn-2007-TripleBypass.md       ← recap + content mine of the above
 ├── BBB/                              ← The Burning Book of Brian (2026 project) renders, diagrams, site plans
 ├── Hand-Drawings/                    ← Charlie's hand sketches (high-interest; transcribe the text!)
 ├── Poetry/                           ← his "Words" poems (transcriptions + catalog)
@@ -29,9 +31,20 @@ Uncle Charlie/
 ├── Red-Hot-Cock-2018/                ← Okeechobee 2018 photo set (captions/metadata; drop originals here)
 ├── portfolio-images/                 ← saved artwork photos (the growing visual archive)
 ├── Images/                           ← (reserved) processed/derivative images
+├── Video/                            ← video masters (large; gitignored — see Video/README.md)
+├── entities/                         ← the entity layer (people, orgs, works, lore)
+│   ├── people.md · organizations.md · motifs.md
+│   ├── works/*.md                    ← one generated record per work
+│   ├── lore/                         ← story nuggets
+│   ├── one-pager-charlie-approved.md ← canonical bio/CV (Charlie-approved)
+│   └── TO-CONFIRM-with-charlie.md    ← open questions for Charlie
 └── Catalog/                          ← machine-readable indexes
     ├── works.csv                     ← one row per artwork/project (the canonical works list)
+    ├── works.json                    ← structured works (consumed by the site + entity records)
     ├── images.csv                    ← one row per image file (filename ↔ work ↔ event ↔ credit)
+    ├── cv.json                       ← structured CV (powers the site's /about + /timeline)
+    ├── manifest.json                 ← master machine export (the site reads this)
+    ├── build-manifest.py             ← regenerates manifest.json from images.csv + works.json
     └── image-wanted-list.md          ← galleries/sources still to pull, by work
 ```
 

@@ -1,6 +1,6 @@
 # Roadmap — what's next for the Charlie archive
 
-The archive is now a solid **master-canonical foundation**: 338 captioned images, 22 works, an entity layer (`entities/`), a machine-readable export (`Catalog/manifest.json`), all versioned on GitHub. This is the springboard for "all sorts of flaming-steel carnival/Burning-Man tomfoolery." Sequenced by leverage.
+The archive is now a solid **master-canonical foundation**: 369 captioned images, 23 works, an entity layer (`entities/`), a machine-readable export (`Catalog/manifest.json`), all versioned on GitHub. This is the springboard for "all sorts of flaming-steel carnival/Burning-Man tomfoolery." Sequenced by leverage.
 
 ## Now — close the loops (cheap, high-value)
 - ✅ **Charlie's approved one-pager ingested (2026-06)** — landed as `entities/one-pager-charlie-approved.md` (canonical bio/CV) + structured `Catalog/cv.json`; reconciled across the KB, `people.md`, `organizations.md`, and Content-Drafts (BFA 1988–92, Carl André Davidt / Andre Studios, film-industry chapter, combined honoraria/grant years, full client + festival rosters). Residual unknowns parked in `TO-CONFIRM` §0. Powers the site's new `/about` page + `/timeline` honoraria strip.
@@ -9,7 +9,7 @@ The archive is now a solid **master-canonical foundation**: 338 captioned images
 - **Record an oral-history session with Charlie** before Burning Book 2026 ramps — capture the build/ritual stories while they're fresh; he's the only source for the 2009–2017 gap and the early works.
 
 ## ✅ Built — the site on top of the archive (2026-06-22)
-The "build on top" payoff is **done and deployed**: a Next.js site (gallery, 22 work pages, "Ask Uncle Charlie" agent, press/grant generator, Burning Book microsite) lives in a separate repo, **`github.com/WalksWithASwagger/contraptionism-site`**, deployed to Vercel production. It reads this archive's `manifest.json` + `works.json` + `entities/` and serves images from this repo via GitHub raw. Its forward roadmap (image optimization, launch finalization, feature depth) is tracked in that repo's `ROADMAP.md`.
+The "build on top" payoff is **done and deployed**: a Next.js site (gallery, 23 work pages, an "Ask Uncle Charlie" agent, a `/about` living-contraption page, press/grant generator, Burning Book microsite) lives in a separate repo, **`github.com/WalksWithASwagger/contraptionism-site`**, deployed to Vercel production. It reads this archive's `manifest.json` + `works.json` + `entities/` and serves images from this repo via GitHub raw. Its forward roadmap (image optimization, launch finalization, feature depth) is tracked in that repo's `ROADMAP.md`.
 
 Launch is gated on three user actions: turn off Vercel Deployment Protection, add `ANTHROPIC_API_KEY`, and point the `contraptionism.com` domain.
 
