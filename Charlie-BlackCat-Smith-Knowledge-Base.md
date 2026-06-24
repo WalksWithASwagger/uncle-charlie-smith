@@ -25,7 +25,7 @@ This is a living reference. It pulls together everything currently knowable abou
 | **Based** | Atlanta, Georgia — Sparseland Studios, 680 Murphy Ave SW, Unit 6026, Atlanta, GA 30310 |
 | **Business** | Sparseland Studios / Sparceland LLC (he's the owner & art director) |
 | **Discipline** | Sculptor; interactive fire-sculpture and flame-effects artist; metal fabricator; licensed flame-effects operator; art director; community-workshop producer |
-| **Education** | BFA, Atlanta College of Art, 1992 (individualized major: interactive art installations, painting & electronic media) |
+| **Education** | BFA, Atlanta College of Art, 1988–1992 (individualized major: interactive art installations, painting & electronic media) |
 | **Signature** | Large-scale, community-built, interactive **fire contraptions** — kinetic metal effigies that burn wood and shoot flame, powered by crowds |
 | **Defining throughline** | "Contraptionism" — recently registered **contraptionism.com** (currently empty/parked) to name the work style he's pursued for ~30 years |
 | **2026 project** | **The Burning Book of Brian** — a memorial fire sculpture for writer Brian Doherty, Burning Man 2026 |
@@ -42,7 +42,9 @@ Charlie Smith is an Atlanta-based sculptor who, for nearly three decades, has bu
 
 He describes himself as a "Visual Artist, Sculpture, Flame Effects Operator, Metal Fabricator, Art Director, Consultant, Idea man, Interactive Art Installation Designer, Community Workshop Producer." His self-styled list of hats is a good tell — he's a maker and a connector in equal measure.
 
-**CV facts (from sparceland.com/bio-shift):** BFA, **Atlanta College of Art (1992)** · film/TV/trade-show props & special effects (**1994–97**) · **Sparceland Studios (1997→)** · **Tennessee flame special-effects licensing (2006–2022)** · Burning Man Honoraria years **2000 through 2018** · community-built sculpture workshops since 2000 across San Francisco, Seattle, Austin, Denver, New York, and Atlanta.
+**CV facts (canonical — per Charlie's approved 2026 one-pager, [[one-pager-charlie-approved]]):** BFA, **Atlanta College of Art (1988–1992)** · internship → employment with mixed-media sculptor **Carl André Davidt / Andre Studios (1991–94)** · then the **film industry** — set production & design, design-house specialty product development, crew lead / assistant to art directors (**1994–97**) · founded **Sparceland Studios (1997→)**, SW Atlanta · **Tennessee flame special-effects licensing (2006–2022)** · **Burning Man Honoraria & Global Arts Grants, 2000–2018** · community-built sculpture workshops since 2000 across San Francisco, Seattle, Austin, Denver, New York, and Atlanta. Charlie styles himself a **"dream producer."**
+
+**Early life — "American nomad" (Charlie-stated, 2026 one-pager):** Obsessed with art and mechanism since childhood; lived on both coasts and across the North, South, and Midwest, considering his early years those of an American nomad before settling in Atlanta. *(Prior drafts note "b. 1966, Columbus, Ohio" — origin specifics unconfirmed; see [[TO-CONFIRM-with-charlie]].)*
 
 **On the names:**
 - **"BlackCat" / "Blackcat"** — his long-running artist handle.
@@ -298,13 +300,16 @@ Images/diagrams saved from Charlie's two project pages, stored in the `BBB/` fol
 
 ## Burning Man honoraria & grants record
 
-Charlie is a multi-time Burning Man Honorarium artist and grantee. **Sources differ slightly on the exact years** — recorded here as-is rather than forced into agreement:
+Charlie is a multi-time Burning Man Honorarium artist and grantee. **Sources differ slightly on the exact years** — recorded here as-is rather than forced into agreement. The 2026 one-pager combines *Honoraria & Global Arts Grants* into one list, which reconciles most of the apparent gaps below (e.g., 2003/04/15 were grant years, not honoraria proper):
 
+- **Per Charlie's approved 2026 one-pager (canonical), [[one-pager-charlie-approved]]:** Burning Man Honoraria & Global Arts Grants in **2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018** (gaps: 2006, 2009, 2010). *2016 is net-new vs. earlier records — confirm; see [[TO-CONFIRM-with-charlie]].*
 - **Per his own CV (2023):** Burning Man Honorarium in **2000, 2001, 2002, 2005, 2007, 2008, 2011, 2012, 2013, 2014, 2017, 2018**. Global Arts Grants in **2001, 2003, 2004, 2007, 2015, 2017, 2018, 2019, 2021**.
 - **Per Burning Man Journal (2015):** Burning Man honoraria artist **2003–2005, 2007, 2008, 2011–2014**; additional BM art projects **1998, 2000, 2001**; **Black Rock Arts Foundation grantee 2002, 2003, 2004, 2006**.
-- **Other credentials:** Licensed flame special-effects operator, State of Tennessee (2006–2022). Three-month college internship → employment with sculptor **Carl Andre Davidt** (1991–93). Trade-show / film / broadcast props, sets & SFX (1994–97). Professional art director at Sparseland Studios (1997–present).
+- **Other credentials:** Licensed flame special-effects operator, State of Tennessee (2006–2022). Internship → employment with mixed-media sculptor **Carl André Davidt** (Andre Studios), **1991–94** *(2023 CV said 1991–93)*. Then the film industry — set production & design, design-house specialty product development; crew lead / assistant to art directors (1994–97). Professional art director at Sparceland Studios (1997–present).
 
 **Selected exhibitions / clients / festivals (from CV):** Burning Man, Black Rock Arts Foundation, Target Corp / Target House at St. Jude, Michael Graves & Associates, YMCA of Atlanta, Radcliffe Bailey, Coachella, Bonnaroo, Music Midtown, Suwannee Hulaween, Okeechobee, Louder Than Life, Electric Picnic (Ireland), Dubai Desert Rock Festival, AfrikaBurn (South Africa), The Love Burn, Transformus, Burning Flipside, Critical Massive, Synergy, Alchemy, Euphoria, Art Outside, Atlanta Art on the BeltLine, Oakland Fire Arts Festival, Eye Drum Gallery, and many private collections/commissions (1997–present).
+
+**Added from the 2026 one-pager ([[one-pager-charlie-approved]]):** *Clients/institutions* — Smithsonian Institution Renwick, The Contemporary Atlanta, Nexus Gallery, Chattahoochee Nature Preserve, Madison Cultural Arts Center, Melia Design Group, Johnson Studio, Stang & Newdow, Super Fly Productions. *Festivals* — Insomniac, LA Arts Festival, Mile High Music Festival.
 
 ---
 

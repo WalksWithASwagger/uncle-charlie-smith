@@ -2,6 +2,13 @@
 
 Open questions the archive can't resolve on its own — answers from Charlie turn low-confidence guesses into canon. Grouped by priority.
 
+## 0. Bio/CV reconciliation (from the approved 2026 one-pager)
+The one-pager ([[one-pager-charlie-approved]]) is now canonical, but a few specifics are net-new or differ from older records — quick confirms:
+- **BFA start year 1988** — the one-pager gives 1988–1992; older records listed only the 1992 grad year. Confirm 1988 start.
+- **Carl André Davidt / Andre Studios** — one-pager says **1991–94**; the 2023 CV said **1991–93**. Which end year? (Also confirm the name spelling — "André" vs "Andre.")
+- **2016 Burning Man honorarium/grant** — appears on the one-pager but in no earlier record. Real? Honorarium or Global Arts Grant?
+- **"American nomad" early life** — both coasts + North/South/Midwest before Atlanta. Any specifics (and does "b. 1966, Columbus, Ohio" from older drafts still hold)?
+
 ## 1. Candidate works (surfaced from Burning Man gallery titles — unconfirmed)
 - **"Big Charles"** — 4 BM-gallery photos, several credited to photographer *Shane Evans*; one captioned *"Big Charles and Galaxia"* (so it was near the 2018 Temple Galaxia?). Is this a distinct sculpture, a nickname for an existing piece, or a portrait of Charlie? → `entities/works/big-charles.md`
 - **"Encompassment / Directional Vessels of Fire"** — now has **5 photos** from Charlie's June 2026 chat: twin flame-shaped steel "vessels" with perforated dot-patterns, fire from the tops, on a curved rocker base, at a forest festival (Tennessee?) beside the "Asslandia / the Gantry" camp banner. **Is this in fact Encompassment / Directional Vessels of Fire? What year + which festival?** (looks ~2023–2024). Related to Synapses? → `entities/works/encompassment.md`

@@ -3,7 +3,8 @@
 The archive is now a solid **master-canonical foundation**: 338 captioned images, 22 works, an entity layer (`entities/`), a machine-readable export (`Catalog/manifest.json`), all versioned on GitHub. This is the springboard for "all sorts of flaming-steel carnival/Burning-Man tomfoolery." Sequenced by leverage.
 
 ## Now — close the loops (cheap, high-value)
-- **Get Charlie's answers** to `entities/TO-CONFIRM-with-charlie.md` — turns the 2 candidate works (Big Charles, Encompassment) and the unidentified gallery frames into canon; settles the Red Hot Cock height; clarifies contraptionism.com intent.
+- ✅ **Charlie's approved one-pager ingested (2026-06)** — landed as `entities/one-pager-charlie-approved.md` (canonical bio/CV) + structured `Catalog/cv.json`; reconciled across the KB, `people.md`, `organizations.md`, and Content-Drafts (BFA 1988–92, Carl André Davidt / Andre Studios, film-industry chapter, combined honoraria/grant years, full client + festival rosters). Residual unknowns parked in `TO-CONFIRM` §0. Powers the site's new `/about` page + `/timeline` honoraria strip.
+- **Get Charlie's answers** to `entities/TO-CONFIRM-with-charlie.md` — now also includes the **bio/CV reconciliation** (§0: BFA start 1988, Davidt end 1993-vs-94, the net-new 2016 honorarium, "American nomad" origin); plus the 2 candidate works (Big Charles, Encompassment), unidentified frames, Red Hot Cock height, contraptionism.com intent.
 - **Retry the video transcripts** (3 sparceland clips + Red Hot Cock build) — YouTube 429'd this session; retry later or get the files directly. Feeds the "Ask Uncle Charlie" agent.
 - **Record an oral-history session with Charlie** before Burning Book 2026 ramps — capture the build/ritual stories while they're fresh; he's the only source for the 2009–2017 gap and the early works.
 

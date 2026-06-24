@@ -1,0 +1,54 @@
+{
+  "source": "Charlie's approved one-pager (June 2026) — canonical bio/CV",
+  "name": "Charlie \"Blackcat\" Smith",
+  "tagline": "A true-hearted human obsessed with art and mechanism since childhood.",
+  "based": "Atlanta, GA",
+  "bio": [
+    "Charlie \"Blackcat\" Smith is a true-hearted human being who has been obsessed with art and mechanism — and how it all works — since childhood. He's lived on both coasts and across the North, South, and Midwest, and considers his early years those of an American nomad.",
+    "He's now a visual artist, sculptor, flame-effects operator, metal fabricator, and dream producer based in Atlanta, GA, where he earned his BFA from the Atlanta College of Art (1988–1992). After an internship turned employment with mixed-media sculptor Carl André Davidt (Andre Studios, 1991–94), he dove into the film industry — set production and design, design-house specialty product development — building high-end fabrication and leadership skills as a crew lead and assistant to art directors.",
+    "Sparceland Studios emerged from the alchemy of those experiences, skills, and connections. Since 1997, countless projects have been conceived and manifested at this SW Atlanta studio — sculptural, design-build, architectural, art furniture, fine art, and more — and it remains a home where visiting artists grow and collaborative projects keep flowing."
+  ],
+  "roles": [
+    "visual artist",
+    "sculptor",
+    "flame effects operator",
+    "metal fabricator",
+    "dream producer"
+  ],
+  "expertise": [
+    "visual arts",
+    "sculpture",
+    "flame effects",
+    "metal fabrication",
+    "art direction",
+    "production coordination",
+    "art curation",
+    "event production",
+    "interactive art",
+    "community workshops",
+    "logistics",
+    "heavy equipment"
+  ],
+  "career": [
+    { "years": "early", "title": "American nomad", "note": "Lived on both coasts and across the North, South & Midwest." },
+    { "years": "1988–1992", "title": "BFA, Atlanta College of Art", "note": "Individualized major: interactive art installations, painting & electronic media." },
+    { "years": "1991–1994", "title": "Andre Studios — Carl André Davidt", "note": "Internship → employment with the mixed-media sculptor." },
+    { "years": "1994–1997", "title": "Film industry", "note": "Set production & design, design-house specialty product development; crew lead / assistant to art directors." },
+    { "years": "1997→", "title": "Founded Sparceland Studios", "note": "SW Atlanta. Sculptural, design-build, architectural, art furniture, fine art — and a home for visiting artists." }
+  ],
+  "honoraria_grant_years": [2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018],
+  "honoraria_label": "Burning Man Honoraria & Global Arts Grants",
+  "festivals": [
+    "Afrika Burn", "Art Outside", "Bonnaroo", "Burning Man", "Coachella",
+    "Dubai Desert Rock Festival", "Electric Picnic", "Insomniac", "LA Arts Festival",
+    "Love Burn", "Mile High Music Festival", "Music Midtown", "Oakland Fire Arts Festival",
+    "Transformus"
+  ],
+  "clients": [
+    "Smithsonian Institution Renwick", "Michael Graves and Associates", "Target Corporation",
+    "Target House at St. Jude's Hospital", "Radcliffe Bailey", "The Contemporary Atlanta",
+    "Atlanta Art on The BeltLine", "Black Rock Art Foundation", "Nexus Gallery", "Eyedrum",
+    "Chattahoochee Nature Preserve", "Madison Cultural Arts Center", "Melia Design Group",
+    "Johnson Studio", "Stang & Newdow", "Super Fly Productions", "The YMCA of Atlanta"
+  ]
+}

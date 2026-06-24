@@ -23,3 +23,9 @@ Miami regional burn; [[works/hot-mama]] and [[works/mr-nice-guy]] shown there as
 
 ## Suwannee Hulaween / Spirit Lake
 Florida festival where [[works/fleeble-flobbler]] appeared as a flame-effects machine (2023).
+
+## Select clients & institutions (from approved CV)
+Beyond the burns, Sparceland's design-build / fabrication clientele spans museums, architects, brands, and civic arts orgs (per [[one-pager-charlie-approved]]): **Smithsonian Institution Renwick**, **Michael Graves & Associates**, **Target Corporation** / **Target House at St. Jude's Hospital**, **Radcliffe Bailey**, **The Contemporary Atlanta**, **Nexus Gallery**, **Eyedrum**, **Atlanta Art on the BeltLine** (see above), **Chattahoochee Nature Preserve**, **Madison Cultural Arts Center**, **Melia Design Group**, **Johnson Studio**, **Stang & Newdow**, **Super Fly Productions**, and the **YMCA of Atlanta**.
+
+## Festivals & burns (roster)
+Full select list per the approved CV: Afrika Burn, Art Outside, Bonnaroo, Burning Man, Coachella, Dubai Desert Rock Festival, Electric Picnic, **Insomniac**, **LA Arts Festival**, Love Burn, **Mile High Music Festival**, Music Midtown, Oakland Fire Arts Festival, Transformus. (Bold = net-new from the 2026 one-pager; the broader KB list adds Suwannee Hulaween, Okeechobee, Burning Flipside, Alchemy, Euphoria, and others.)
