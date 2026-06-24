@@ -2,10 +2,11 @@
 
 All known moving-image / audio media featuring Charlie "Blackcat" Smith. Transcripts of the two Kris Krüg pieces live in `/Transcripts`.
 
-Last updated: June 21, 2026
+Last updated: June 24, 2026
 
 | Title | Type | URL | Date | Status | Notes |
 |---|---|---|---|---|---|
+| Afrika Burns (2007) Part II | YouTube doc (Richard Gregory / AfrikaBurn channel) | https://www.youtube.com/watch?v=d5flXmOp0-M | filmed 2007 (up. 2014) | ✅ video + transcript pulled → `/Video/afrikaburn-2007-part-ii__d5flXmOp0-M.mp4`, `/Transcripts/Transcript-AfrikaBurn-2007-TripleBypass.md` | **Primary source for Triple Bypass / first AfrikaBurn.** Confirms Quad Pass→Triple Bypass rename, Charlie + Jamie Ladet US fire-cauldron tour, participant symbol system. Features Charlie, Jamie Ladet, Daya Heller, Paul Jorgensen |
 | Modern Myths Unveiled: Dive into Artist Blackcat Charlie Smith's Vision | YouTube interview (KK × Charlie) | https://www.youtube.com/watch?v=ksJDcyZmvh4 | 2023 | ✅ transcribed → `/Transcripts/Transcript-Charlie-Interview-2023.md` | Primary source; Solar Scope, injury, sobriety, philosophy |
 | The Most Insane Burning Man Art Projects | YouTube story (KK narration) | https://www.youtube.com/watch?v=CSoU5gZDL6Y | 2023 | ✅ transcribed → `/Transcripts/Transcript-RedHotCock-and-Shrine-2023-KrisKrug.md` | Red Hot Cock + Shrine of Sympathetic Resonance |
 | Uncle Charlie's Red Hot Cock Construction — Burning Man 2018 | YouTube build video | https://www.youtube.com/watch?v=eL3aEgK2YCs | 2018 | ⏳ lead — not yet viewed | Distinct from KK's two videos; build documentation |

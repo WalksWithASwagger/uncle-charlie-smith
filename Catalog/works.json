@@ -100,7 +100,7 @@
     {
       "work_id": "triple-bypass",
       "title": "Triple Bypass",
-      "aka": "Quadrapass (related)",
+      "aka": "Quad Pass / Quadrapass (original name, renamed mid-build)",
       "type": "fire cauldron",
       "year_start": "2006",
       "year_end": "2007",
@@ -117,14 +117,15 @@
         "instigating-afrikaburn"
       ],
       "themes": "global art; instigating AfrikaBurn",
-      "description": "Studio-built over 6 weeks; helped instigate AfrikaBurn; described as the first Burning-Man-represented artifact there",
-      "image_count": 2,
+      "description": "Fire cauldron begun as the \"Quad Pass\" (Quadrapass) and renamed \"Triple Bypass\" mid-build (a heart-attack joke). The first Burning-Man-represented artifact at the inaugural AfrikaBurn (\"Africa Burns\", 2007, at the Bijou in Observatory, Cape Town); a ~year-and-a-half effort. Charlie & Jamie Ladet toured the US building gift-economy fire cauldrons en route; workshop participants designed the sculpture's own symbol system (dragon-on-anvil, circle-in-square/infinity, lightning).",
+      "image_count": 3,
       "hero_images": [],
       "sources": [
         "howhowhow.com/news.html",
-        "interview 2023"
+        "interview 2023",
+        "AfrikaBurn 2007 film (Richard Gregory, yt d5flXmOp0-M) + transcript"
       ],
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "work_id": "hot-mama",

@@ -1,10 +1,10 @@
 {
   "archive": "Charlie \"Blackcat\" Smith — Public Image Archive",
-  "generated": "2026-06-23",
+  "generated": "2026-06-24",
   "schema_version": 2,
   "stats": {
-    "total_images": 356,
-    "local_files": 354,
+    "total_images": 357,
+    "local_files": 355,
     "hero_shots": 68,
     "high_res_2000plus": 214,
     "works": 22,
@@ -12,12 +12,12 @@
       "charlie-site": 121,
       "charlie-archive": 2,
       "kk-owned": 188,
-      "third-party": 38,
+      "third-party": 39,
       "video-still": 7
     },
     "top_tags": {
       "kk-photo": 188,
-      "fire-cauldron": 161,
+      "fire-cauldron": 162,
       "community-built": 148,
       "teeter-totter": 144,
       "mythic-hybrid": 137,
@@ -157,7 +157,7 @@
     {
       "work_id": "triple-bypass",
       "title": "Triple Bypass",
-      "aka": "Quadrapass (related)",
+      "aka": "Quad Pass / Quadrapass (original name, renamed mid-build)",
       "type": "fire cauldron",
       "year_start": "2006",
       "year_end": "2007",
@@ -174,14 +174,15 @@
         "instigating-afrikaburn"
       ],
       "themes": "global art; instigating AfrikaBurn",
-      "description": "Studio-built over 6 weeks; helped instigate AfrikaBurn; described as the first Burning-Man-represented artifact there",
-      "image_count": 2,
+      "description": "Fire cauldron begun as the \"Quad Pass\" (Quadrapass) and renamed \"Triple Bypass\" mid-build (a heart-attack joke). The first Burning-Man-represented artifact at the inaugural AfrikaBurn (\"Africa Burns\", 2007, at the Bijou in Observatory, Cape Town); a ~year-and-a-half effort. Charlie & Jamie Ladet toured the US building gift-economy fire cauldrons en route; workshop participants designed the sculpture's own symbol system (dragon-on-anvil, circle-in-square/infinity, lightning).",
+      "image_count": 3,
       "hero_images": [],
       "sources": [
         "howhowhow.com/news.html",
-        "interview 2023"
+        "interview 2023",
+        "AfrikaBurn 2007 film (Richard Gregory, yt d5flXmOp0-M) + transcript"
       ],
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "work_id": "hot-mama",
@@ -11061,6 +11062,33 @@
         "portrait"
       ],
       "notes": "Candid night selfie; event and location unconfirmed"
+    },
+    {
+      "file": "afrikaburn-2007-part-ii__d5flXmOp0-M.jpg",
+      "path": "Video-stills/afrikaburn-2007-part-ii__d5flXmOp0-M.jpg",
+      "work_id": "triple-bypass",
+      "subject": "Afrika Burns 2007 (Triple Bypass) video thumbnail",
+      "event": "AfrikaBurn / Cape Town",
+      "year": "2007",
+      "credit": "Richard Gregory",
+      "source": "https://www.youtube.com/watch?v=d5flXmOp0-M",
+      "rights": "third-party",
+      "width": 1048,
+      "height": 576,
+      "long_edge": 1048,
+      "capture_date": null,
+      "hero": false,
+      "confidence": "medium",
+      "status": "local",
+      "tags": [
+        "afrikaburn",
+        "fire-cauldron",
+        "global-art",
+        "instigating-afrikaburn",
+        "triple-bypass",
+        "video-still"
+      ],
+      "notes": "youtube thumbnail (reference still); Richard Gregory documentary"
     }
   ]
 }
