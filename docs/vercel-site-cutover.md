@@ -11,7 +11,10 @@ The Next.js app now lives in `Site/` inside `uncle-charlie-smith`. Complete thes
 5. Keep env vars (`ANTHROPIC_API_KEY`, etc.).
 6. Redeploy from `main` and smoke-check https://contraptionism-site.vercel.app.
 
-**Status 2026-07-14:** Git connected to `uncle-charlie-smith`. Production redeployed via `vercel deploy --prod` from `Site/`. Root Directory may still need to be set to `Site` in the dashboard if git-triggered builds error.
+**Status 2026-07-14:**
+- Git connected to `uncle-charlie-smith`; old `contraptionism-site` GitHub repo archived.
+- Production live at https://contraptionism-site.vercel.app (git deploys green via root `vercel.json` shim that builds `Site/` and copies `.next` to repo root).
+- **Still recommended:** set Root Directory to `Site` in Vercel → Settings → General, then simplify/remove the root shim (`package.json` + `vercel.json` build copy). API token lacked permission to set this from CLI.
 
 ## 2. Retire the old site repo
 
