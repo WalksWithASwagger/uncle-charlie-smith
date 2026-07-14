@@ -4,8 +4,10 @@ An upgraded, structured, queryable archive of the life and work of **Charlie "Bl
 
 > Charlie has archived well over a long arc — "not perfect, but so much better than most, and a great breadcrumb trail." This repo upgrades that trail into something machine-usable.
 
-Maintained by Kris Krüg (quartermaster & documentarian / archivist). Last updated: June 21, 2026.
-Companion GitHub repo: **github.com/WalksWithASwagger/uncle-charlie-smith**
+Maintained by Kris Krüg (quartermaster & documentarian / archivist). Last updated: July 14, 2026.
+GitHub: **github.com/WalksWithASwagger/uncle-charlie-smith**
+
+**Public site:** Next.js app lives in [`Site/`](Site/) (same repo). Sync + deploy notes: [`Site/README.md`](Site/README.md). Relationship map: [`docs/site-archive-relationship.md`](docs/site-archive-relationship.md).
 
 ---
 
@@ -14,6 +16,8 @@ Companion GitHub repo: **github.com/WalksWithASwagger/uncle-charlie-smith**
 ```
 Uncle Charlie/
 ├── README.md                         ← you are here (archive guide + schema)
+├── Site/                             ← Next.js public site (contraptionism.com)
+├── docs/site-archive-relationship.md ← archive ↔ site map
 ├── Charlie-BlackCat-Smith-Knowledge-Base.md   ← master narrative: bio, projects, 2026, network, sources
 ├── Brand/                            ← canonical voice/brand refs for agents
 │   ├── Charlie-Voice-and-Style-Guide.md

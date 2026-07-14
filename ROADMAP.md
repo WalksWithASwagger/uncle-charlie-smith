@@ -8,10 +8,10 @@ The archive is now a solid **master-canonical foundation**: 369 captioned images
 - **Retry the video transcripts** (3 sparceland clips + Red Hot Cock build) — YouTube 429'd this session; retry later or get the files directly. Feeds the "Ask Uncle Charlie" agent.
 - **Record an oral-history session with Charlie** before Burning Book 2026 ramps — capture the build/ritual stories while they're fresh; he's the only source for the 2009–2017 gap and the early works.
 
-## ✅ Built — the site on top of the archive (2026-06-22)
-The "build on top" payoff is **done and deployed**: a Next.js site (gallery, 23 work pages, an "Ask Uncle Charlie" agent, a `/about` living-contraption page, press/grant generator, Burning Book microsite) lives in a separate repo, **`github.com/WalksWithASwagger/contraptionism-site`**, deployed to Vercel production. It reads this archive's `manifest.json` + `works.json` + `entities/` and serves images from this repo via GitHub raw. Its forward roadmap (image optimization, launch finalization, feature depth) is tracked in that repo's `ROADMAP.md`.
+## ✅ Built — the site on top of the archive (2026-06-22; monorepo 2026-07-14)
+The "build on top" payoff is **done and deployed**: a Next.js site (gallery, 23 work pages, an "Ask Uncle Charlie" agent, a `/about` living-contraption page, press/grant generator, Burning Book microsite) lives in **`Site/`** in this repo, deployed to Vercel (Root Directory = `Site`). It syncs `Catalog/*` + `entities/` + Brand + Transcripts into `Site/data/` and serves images via GitHub raw from this same repo. Forward site work: `Site/ROADMAP.md`.
 
-Launch is gated on three user actions: turn off Vercel Deployment Protection, add `ANTHROPIC_API_KEY`, and point the `contraptionism.com` domain.
+Launch is gated on: Vercel Deployment Protection off, `ANTHROPIC_API_KEY`, `contraptionism.com` DNS, and Vercel connected to **this** repo with root `Site` (former `contraptionism-site` sibling retired).
 
 ## Later — depth & completeness
 - **Fill photo-less works** — `gantry`, `teetering-cusps`, `bone-head`, `discombobulator`, `hot-mama`/`mr-nice-guy` burns (howhowhow.com per-event galleries, or from Charlie).

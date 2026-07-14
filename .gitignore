@@ -11,3 +11,16 @@ Video/*.mp4
 Video/*.mov
 Video/*.m4v
 Video/*.webm
+
+# Next.js site (Site/)
+Site/node_modules/
+Site/.next/
+Site/out/
+Site/.vercel/
+Site/.env*
+Site/*.tsbuildinfo
+Site/next-env.d.ts
+Site/npm-debug.log*
+Site/yarn-debug.log*
+Site/yarn-error.log*
+Site/.pnpm-debug.log*
