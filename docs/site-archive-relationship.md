@@ -21,4 +21,4 @@ flowchart LR
 | Repo root | Canonical archive | Works, entities, brand, catalog, media |
 | `Site/` | Public Next.js site | UI, routes, agent, deploy |
 
-**Former sibling** `contraptionism-site` was merged into `Site/` (2026-07). Do not maintain a separate site repo.
+**Former sibling** `contraptionism-site` was merged into `Site/` and archived on GitHub (2026-07). Vercel Root Directory = `Site`. See [`vercel-site-cutover.md`](vercel-site-cutover.md).

@@ -1,5 +1,0 @@
-{
-  "installCommand": "npm --prefix Site install",
-  "buildCommand": "npm --prefix Site run build && rm -rf .next && cp -R Site/.next .next",
-  "framework": "nextjs"
-}
