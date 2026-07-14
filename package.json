@@ -1,0 +1,12 @@
+{
+  "name": "uncle-charlie-smith",
+  "private": true,
+  "description": "Archive monorepo — Next.js app lives in Site/. Prefer Vercel Root Directory = Site; these scripts are a fallback for root builds.",
+  "scripts": {
+    "dev": "npm --prefix Site run dev",
+    "build": "npm --prefix Site run build",
+    "start": "npm --prefix Site run start",
+    "sync": "npm --prefix Site run sync",
+    "vercel-build": "npm --prefix Site install && npm --prefix Site run build"
+  }
+}
