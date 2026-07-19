@@ -20,7 +20,7 @@ Public Next.js front for the Charlie "Blackcat" Smith archive. Lives in **`Site/
 cd Site
 npm install
 npm run sync
-npm run dev       # http://localhost:3000
+varlock run --inject vars -- npm run dev
 ```
 
-Agent/press: `ANTHROPIC_API_KEY` in `.env.local` (and in Vercel for production). Domain `contraptionism.com` still pending DNS.
+The environment contract is in `.env.schema`. Agents may inspect that schema, but must not read local `.env*` value files. `ANTHROPIC_API_KEY` may come from the shared local Varlock values file or the repo-specific override; Vercel retains its own production copy. Domain `contraptionism.com` still pending DNS.
