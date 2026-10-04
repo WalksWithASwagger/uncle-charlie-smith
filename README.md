@@ -1,3 +1,5 @@
+> **Archived 2026-10-03.** The code and text now live in the kk-kb monorepo at [`content/projects/10-creative-practice/uncle-charlie-smith`](https://github.com/WalksWithASwagger/kk-kb/tree/main/content/projects/10-creative-practice/uncle-charlie-smith) (WalksWithASwagger/kk-kb#4334). The 831 media files are in this repo and in private Drive (see PROVENANCE.md there). https://contraptionism-site.vercel.app is unchanged and still serves its last build from this repo. Make future changes in kk-kb.
+
 # Uncle Charlie Smith — Archive
 
 An upgraded, structured, queryable archive of the life and work of **Charlie "Blackcat" Smith** — Atlanta sculptor, fire artist, and "Johnny Appleseed of Burning Man." The goal: pull the scattered tentacles of a 30-year career (sites, photos, videos, transcripts, drawings) into **one common format with common metadata**, so we can build fun things on top — a website, a searchable gallery, an AI that talks like Charlie, grant/press kits, a Burning Book microsite, etc.
